@@ -1,0 +1,122 @@
+
+UNIVERSITY OF IOWA PARKING PEAK OCCUPANCY FORECAST REPORT
+=========================================================
+Generated: 2025-05-27 23:19:41
+
+EXECUTIVE SUMMARY
+-----------------
+This report presents peak parking occupancy forecasts for the University of Iowa 
+parking system for May through December 2025.
+
+KEY FINDINGS:
+1. Average predicted peak occupancy: 181 vehicles
+2. Peak period: July 2025 (avg 185 vehicles)
+3. Lowest period: Break periods in May & December
+4. Weekend usage is 32% lower than weekdays
+5. Finals week shows 4% higher occupancy than regular periods
+
+METHODOLOGY:
+- Model: XGBoost with R² score of 0.887
+- Features: 67 including temporal, academic, sports, and lot characteristics
+- Training data: 15,097 historical records (2021-2025)
+- Validation: Cross-validated with time series split
+
+FORECAST SUMMARY BY LOT:
+========================================
+
+Lot 10:
+  Average Peak: 187 vehicles
+  Maximum Peak: 239 vehicles
+  Minimum Peak: 103 vehicles
+Lot 11:
+  Average Peak: 174 vehicles
+  Maximum Peak: 241 vehicles
+  Minimum Peak: 68 vehicles
+Lot 70:
+  Average Peak: 196 vehicles
+  Maximum Peak: 243 vehicles
+  Minimum Peak: 122 vehicles
+Lot 80:
+  Average Peak: 196 vehicles
+  Maximum Peak: 238 vehicles
+  Minimum Peak: 135 vehicles
+Lot 50:
+  Average Peak: 197 vehicles
+  Maximum Peak: 234 vehicles
+  Minimum Peak: 138 vehicles
+Lot 30:
+  Average Peak: 190 vehicles
+  Maximum Peak: 228 vehicles
+  Minimum Peak: 126 vehicles
+Lot 3:
+  Average Peak: 176 vehicles
+  Maximum Peak: 230 vehicles
+  Minimum Peak: 84 vehicles
+Lot 6:
+  Average Peak: 178 vehicles
+  Maximum Peak: 226 vehicles
+  Minimum Peak: 96 vehicles
+Lot 40:
+  Average Peak: 154 vehicles
+  Maximum Peak: 228 vehicles
+  Minimum Peak: 34 vehicles
+Lot 13:
+  Average Peak: 157 vehicles
+  Maximum Peak: 229 vehicles
+  Minimum Peak: 36 vehicles
+
+MONTHLY FORECAST SUMMARY:
+========================================
+
+2025-05: Avg 173, Max 221
+2025-06: Avg 183, Max 221
+2025-07: Avg 185, Max 243
+2025-08: Avg 180, Max 224
+2025-09: Avg 187, Max 230
+2025-10: Avg 188, Max 227
+2025-11: Avg 175, Max 226
+2025-12: Avg 174, Max 221
+
+TOP 10 PEAK DAYS (ALL LOTS COMBINED):
+========================================
+
+1. 2025-07-08 (Tuesday): 2318 total vehicles
+2. 2025-07-07 (Monday): 2255 total vehicles
+3. 2025-07-09 (Wednesday): 2246 total vehicles
+4. 2025-07-01 (Tuesday): 2214 total vehicles
+5. 2025-10-02 (Thursday): 2187 total vehicles
+6. 2025-09-29 (Monday): 2186 total vehicles
+7. 2025-09-30 (Tuesday): 2179 total vehicles
+8. 2025-11-11 (Tuesday): 2165 total vehicles (Holiday)
+9. 2025-06-19 (Thursday): 2165 total vehicles (Holiday)
+10. 2025-11-04 (Tuesday): 2155 total vehicles
+
+RECOMMENDATIONS:
+========================================
+1. CAPACITY PLANNING:
+   - Prepare for peak usage in July-October period
+   - Finals week (early May) requires additional capacity
+   - Reduce staffing during break periods and weekends
+
+2. ACCESS GROUP MANAGEMENT:
+   - Groups 81 and 80 drive majority of usage
+   - Consider usage-based pricing for high-demand periods
+   - Weekend access can be limited without impact
+
+3. EVENT PLANNING:
+   - Sports events generally reduce parking demand by 7%
+   - Basketball games are exception (+5% usage)
+   - Academic calendar is primary driver of demand
+
+4. OPERATIONAL EFFICIENCY:
+   - Peak efficiency ratio is 54% (peak occupancy / daily transactions)
+   - Lot 50 shows highest average demand (197 vehicles)
+   - Weekend operations can be scaled back by 30%
+
+TECHNICAL NOTES:
+- Predictions exclude weather features due to limited impact (1%)
+- Lag features use 7-day and 30-day historical averages
+- Model accounts for cyclical patterns in academic calendar
+- Confidence intervals: ±41 vehicles (1 std dev)
+
+END OF REPORT

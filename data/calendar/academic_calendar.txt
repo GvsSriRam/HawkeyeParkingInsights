@@ -1,0 +1,189 @@
+# University of Iowa Academic Calendar Events (2021-2026)
+# Format: DATE | EVENT_TYPE | DESCRIPTION
+
+# Fall 2021
+2021-08-23 | CLASS_START | Opening of Classes
+2021-09-06 | HOLIDAY | Labor Day - University Holiday--No Classes; Offices Closed
+2021-11-21 | BREAK_START | Fall Break Start
+2021-11-28 | BREAK_END | Fall Break End
+2021-11-25 | HOLIDAY | University Holidays, Offices Closed
+2021-11-26 | HOLIDAY | University Holidays, Offices Closed
+2021-11-29 | CLASS_RESUME | Classes resume
+2021-12-10 | CLASS_END | Close of Classes
+2021-12-13 | FINALS_START | Final Examination Week Start
+2021-12-17 | FINALS_END | Final Examination Week End
+2021-12-16 | COMMENCEMENT_START | Commencement ceremonies Start
+2021-12-19 | COMMENCEMENT_END | Commencement ceremonies End
+
+# Winter 2021
+2021-12-20 | CLASS_START | Opening of Classes
+2021-12-23 | HOLIDAY | University Holiday, Offices Closed
+2021-12-24 | HOLIDAY | University Holiday, Offices Closed
+2021-12-25 | HOLIDAY | Federal Holiday - No Classes
+2021-12-31 | HOLIDAY | University Holiday--No Classes; Offices Closed
+2022-01-01 | HOLIDAY | Federal Holiday - No Classes
+2022-01-14 | CLASS_END | Close of Classes
+
+# Spring 2022
+2022-01-17 | HOLIDAY | Martin Luther King, Jr. Convocation--All Classes Suspended; Offices Closed
+2022-01-18 | CLASS_START | Opening of Classes
+2022-03-13 | BREAK_START | Spring Break Start
+2022-03-20 | BREAK_END | Spring Break End
+2022-03-21 | CLASS_RESUME | Classes resume
+2022-05-06 | CLASS_END | Close of Classes
+2022-05-09 | FINALS_START | Final Examination Week Start
+2022-05-13 | FINALS_END | Final Examination Week End
+2022-05-12 | COMMENCEMENT_START | Commencement ceremonies Start
+2022-05-15 | COMMENCEMENT_END | Commencement ceremonies End
+
+# Summer 2022
+2022-05-16 | CLASS_START | Opening of Classes
+2022-05-30 | HOLIDAY | Memorial Day - University Holiday--No Classes, Offices Closed
+2022-07-04 | HOLIDAY | Independence Day - University Holiday--No Classes, Offices Closed
+2022-08-05 | CLASS_END | Close of Classes
+
+# Fall 2022
+2022-08-22 | CLASS_START | Opening of Classes
+2022-09-05 | HOLIDAY | Labor Day - University Holiday--No Classes; Offices Closed
+2022-11-20 | BREAK_START | Fall Break Start
+2022-11-27 | BREAK_END | Fall Break End
+2022-11-24 | HOLIDAY | University Holidays, Offices Closed
+2022-11-25 | HOLIDAY | University Holidays, Offices Closed
+2022-11-28 | CLASS_RESUME | Classes resume
+2022-12-09 | CLASS_END | Close of Classes
+2022-12-12 | FINALS_START | Final Examination Week Start
+2022-12-16 | FINALS_END | Final Examination Week End
+2022-12-15 | COMMENCEMENT_START | Commencement ceremonies Start
+2022-12-18 | COMMENCEMENT_END | Commencement ceremonies End
+
+# Winter 2022
+2022-12-19 | CLASS_START | Opening of Classes
+2022-12-25 | HOLIDAY | Federal Holiday - No Classes
+2022-12-26 | HOLIDAY | University Holiday, Offices Closed
+2022-12-27 | HOLIDAY | University Holiday, Offices Closed
+2023-01-01 | HOLIDAY | Federal Holiday - No Classes
+2023-01-02 | HOLIDAY | University Holiday--No Classes; Offices Closed
+2023-01-13 | CLASS_END | Close of Classes
+
+# Spring 2023
+2023-01-16 | HOLIDAY | Martin Luther King, Jr. Convocation--All Classes Suspended; Offices Closed
+2023-01-17 | CLASS_START | Opening of Classes
+2023-03-12 | BREAK_START | Spring Break Start
+2023-03-19 | BREAK_END | Spring Break End
+2023-03-20 | CLASS_RESUME | Classes resume
+2023-05-05 | CLASS_END | Close of Classes
+2023-05-08 | FINALS_START | Final Examination Week Start
+2023-05-12 | FINALS_END | Final Examination Week End
+2023-05-11 | COMMENCEMENT_START | Commencement ceremonies Start
+2023-05-14 | COMMENCEMENT_END | Commencement ceremonies End
+
+# Summer 2023
+2023-05-15 | CLASS_START | Opening of Classes
+2023-05-29 | HOLIDAY | Memorial Day - University Holiday--No Classes, Offices Closed
+2023-07-04 | HOLIDAY | Independence Day - University Holiday--No Classes, Offices Closed
+2023-08-04 | CLASS_END | Close of Classes
+
+# Fall 2023
+2023-08-21 | CLASS_START | Opening of Classes
+2023-09-04 | HOLIDAY | Labor Day - University Holiday--No Classes; Offices Closed
+2023-11-19 | BREAK_START | Fall Break Start
+2023-11-26 | BREAK_END | Fall Break End
+2023-11-23 | HOLIDAY | University Holidays, Offices Closed
+2023-11-24 | HOLIDAY | University Holidays, Offices Closed
+2023-11-27 | CLASS_RESUME | Classes resume
+2023-12-08 | CLASS_END | Close of Classes
+2023-12-11 | FINALS_START | Final Examination Week Start
+2023-12-15 | FINALS_END | Final Examination Week End
+2023-12-14 | COMMENCEMENT_START | Commencement ceremonies Start
+2023-12-17 | COMMENCEMENT_END | Commencement ceremonies End
+
+# Winter 2023
+2023-12-18 | CLASS_START | Opening of Classes
+2023-12-25 | HOLIDAY | Federal Holiday - No Classes
+2023-12-25 | HOLIDAY | University Holiday, Offices Closed
+2023-12-26 | HOLIDAY | University Holiday, Offices Closed
+2024-01-01 | HOLIDAY | University Holiday--No Classes; Offices Closed
+2024-01-01 | HOLIDAY | Federal Holiday - No Classes
+2024-01-12 | CLASS_END | Close of Classes
+
+# Spring 2024
+2024-01-15 | HOLIDAY | Martin Luther King, Jr. Convocation--All Classes Suspended; Offices Closed
+2024-01-16 | CLASS_START | Opening of Classes
+2024-03-10 | BREAK_START | Spring Break Start
+2024-03-17 | BREAK_END | Spring Break End
+2024-03-18 | CLASS_RESUME | Classes resume
+2024-05-03 | CLASS_END | Close of Classes
+2024-05-06 | FINALS_START | Final Examination Week Start
+2024-05-10 | FINALS_END | Final Examination Week End
+2024-05-09 | COMMENCEMENT_START | Commencement ceremonies Start
+2024-05-12 | COMMENCEMENT_END | Commencement ceremonies End
+
+# Summer 2024
+2024-05-13 | CLASS_START | Opening of Classes
+2024-05-27 | HOLIDAY | Memorial Day - University Holiday--No Classes, Offices Closed
+2024-07-04 | HOLIDAY | Independence Day - Federal Holiday - No Classes
+2024-08-02 | CLASS_END | Close of Classes
+
+# Fall 2024
+2024-08-26 | CLASS_START | Opening of Classes
+2024-09-02 | HOLIDAY | Labor Day - University Holiday--No Classes; Offices Closed
+2024-11-24 | BREAK_START | Fall Break Start
+2024-12-01 | BREAK_END | Fall Break End
+2024-11-28 | HOLIDAY | University Holidays, Offices Closed
+2024-11-29 | HOLIDAY | University Holidays, Offices Closed
+2024-12-02 | CLASS_RESUME | Classes resume
+2024-12-13 | CLASS_END | Close of Classes
+2024-12-16 | FINALS_START | Final Examination Week Start
+2024-12-20 | FINALS_END | Final Examination Week End
+2024-12-19 | COMMENCEMENT_START | Commencement ceremonies Start
+2024-12-22 | COMMENCEMENT_END | Commencement ceremonies End
+
+# Winter 2024
+2024-12-23 | CLASS_START | Opening of Classes
+2024-12-24 | HOLIDAY | University Holiday, Offices Closed
+2024-12-25 | HOLIDAY | University Holiday, Offices Closed
+2024-12-25 | HOLIDAY | Federal Holiday - No Classes
+2025-01-01 | HOLIDAY | University Holiday--No Classes; Offices Closed
+2025-01-01 | HOLIDAY | Federal Holiday - No Classes
+2025-01-17 | CLASS_END | Close of Classes
+
+# Spring 2025
+2025-01-20 | HOLIDAY | Martin Luther King, Jr. Convocation--All Classes Suspended; Offices Closed
+2025-01-21 | CLASS_START | Opening of Classes
+2025-03-16 | BREAK_START | Spring Break Start
+2025-03-23 | BREAK_END | Spring Break End
+2025-03-24 | CLASS_RESUME | Classes resume
+2025-05-09 | CLASS_END | Close of Classes
+2025-05-12 | FINALS_START | Final Examination Week Start
+2025-05-16 | FINALS_END | Final Examination Week End
+2025-05-15 | COMMENCEMENT_START | Commencement ceremonies Start
+2025-05-18 | COMMENCEMENT_END | Commencement ceremonies End
+
+# Summer 2025
+2025-05-19 | CLASS_START | Opening of Classes
+2025-05-26 | HOLIDAY | Memorial Day - University Holiday--No Classes, Offices Closed
+2025-07-04 | HOLIDAY | Independence Day - Federal Holiday - No Classes
+2025-08-08 | CLASS_END | Close of Classes
+
+# Fall 2025 (Forecast Period)
+2025-08-25 | CLASS_START | Opening of Classes
+2025-09-01 | HOLIDAY | Labor Day - University Holiday--No Classes; Offices Closed
+2025-11-23 | BREAK_START | Fall Break Start
+2025-11-30 | BREAK_END | Fall Break End
+2025-11-27 | HOLIDAY | University Holidays, Offices Closed
+2025-11-28 | HOLIDAY | University Holidays, Offices Closed
+2025-12-01 | CLASS_RESUME | Classes resume
+2025-12-12 | CLASS_END | Close of Classes
+2025-12-15 | FINALS_START | Final Examination Week Start
+2025-12-19 | FINALS_END | Final Examination Week End
+2025-12-18 | COMMENCEMENT_START | Commencement ceremonies Start
+2025-12-21 | COMMENCEMENT_END | Commencement ceremonies End
+
+# Winter 2025
+2025-12-22 | CLASS_START | Opening of Classes
+2025-12-25 | HOLIDAY | Federal Holiday - No Classes
+2025-12-25 | HOLIDAY | University Holiday, Offices Closed
+2025-12-26 | HOLIDAY | University Holiday, Offices Closed
+2026-01-01 | HOLIDAY | University Holiday--No Classes; Offices Closed
+2026-01-01 | HOLIDAY | Federal Holiday - No Classes
+2026-01-16 | CLASS_END | Close of Classes

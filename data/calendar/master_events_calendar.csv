@@ -1,0 +1,415 @@
+Date,Event_Type,Description,Category,Sport,Opponent,Location,Result,Year,Month,Weekday,Is_Weekend
+2020-11-25,HOME_GAME,,Sports,BASKETBALL,NORTH CAROLINA CENTRAL,"Iowa City, Iowa",W 97-67,2020,11,Wednesday,False
+2020-11-27,HOME_GAME,,Sports,BASKETBALL,SOUTHERN,"Iowa City, Iowa",W 103-76,2020,11,Friday,False
+2020-12-03,HOME_GAME,,Sports,BASKETBALL,WESTERN ILLINOIS,"Iowa City, Iowa",W 99-58,2020,12,Thursday,False
+2020-12-08,HOME_GAME,,Sports,BASKETBALL,#16 NORTH CAROLINA,"Iowa City, IA",W 93-80,2020,12,Tuesday,False
+2020-12-11,HOME_GAME,,Sports,BASKETBALL,IOWA STATE,"Iowa City, Iowa",W 105-77,2020,12,Friday,False
+2020-12-13,HOME_GAME,,Sports,BASKETBALL,NORTHERN ILLINOIS,"Iowa City, Iowa",W 106-53,2020,12,Sunday,True
+2020-12-22,HOME_GAME,,Sports,BASKETBALL,PURDUE,"Iowa City, Iowa",W 70-55,2020,12,Tuesday,False
+2020-12-29,HOME_GAME,,Sports,BASKETBALL,#19 NORTHWESTERN,"Iowa City, Iowa",W 87-72,2020,12,Tuesday,False
+2021-01-10,HOME_GAME,,Sports,BASKETBALL,#16 MINNESOTA,"Iowa City, Iowa",W 86-71,2021,1,Sunday,True
+2021-01-15,HOME_MATCH,,Sports,WRESTLING,#6 NEBRASKA,"Iowa City, Iowa",W 31-6,2021,1,Friday,False
+2021-01-21,HOME_GAME,,Sports,BASKETBALL,INDIANA,"Iowa City, Iowa",L 69-81,2021,1,Thursday,False
+2021-01-31,HOME_MATCH,,Sports,WRESTLING,ILLINOIS,"Iowa City, Iowa",W 36-6,2021,1,Sunday,True
+2021-02-02,HOME_GAME,,Sports,BASKETBALL,MICHIGAN STATE,"Iowa City, Iowa",W 84-78,2021,2,Tuesday,False
+2021-02-04,HOME_GAME,,Sports,BASKETBALL,#7 OHIO STATE,"Iowa City, Iowa",L 85-89,2021,2,Thursday,False
+2021-02-10,HOME_GAME,,Sports,BASKETBALL,#25 RUTGERS,"Iowa City, Iowa",W 79-66,2021,2,Wednesday,False
+2021-02-21,HOME_GAME,,Sports,BASKETBALL,PENN STATE,"Iowa City, Iowa",W 74-68,2021,2,Sunday,True
+2021-03-04,HOME_GAME,,Sports,BASKETBALL,NEBRASKA,"Iowa City, Iowa",W 102-64,2021,3,Thursday,False
+2021-03-07,HOME_GAME,,Sports,BASKETBALL,#25 WISCONSIN,"Iowa City, Iowa",W 77-73,2021,3,Sunday,True
+2021-03-19,HOME_GAME,,Sports,BASEBALL,NEBRASKA,"Iowa City, Iowa",W 3-0,2021,3,Friday,False
+2021-03-20,HOME_GAME,,Sports,BASEBALL,NEBRASKA,"Iowa City, Iowa",L 8-10,2021,3,Saturday,True
+2021-03-21,HOME_GAME,,Sports,BASEBALL,NEBRASKA,"Iowa City, Iowa",L 8-13,2021,3,Sunday,True
+2021-04-09,HOME_GAME,,Sports,BASEBALL,MINNESOTA,"Iowa City, Iowa",W 7-1,2021,4,Friday,False
+2021-04-10,HOME_GAME,,Sports,BASEBALL,MINNESOTA,"Iowa City, Iowa",Postponed,2021,4,Saturday,True
+2021-04-11,HOME_GAME,,Sports,BASEBALL,MINNESOTA,"Iowa City, Iowa",W 6-1,2021,4,Sunday,True
+2021-04-11,HOME_GAME,,Sports,BASEBALL,MINNESOTA,"Iowa City, Iowa",W 18-0,2021,4,Sunday,True
+2021-04-23,HOME_GAME,,Sports,BASEBALL,MARYLAND,"Iowa City, Iowa",W 6-2,2021,4,Friday,False
+2021-04-24,HOME_GAME,,Sports,BASEBALL,MARYLAND,"Iowa City, Iowa",L 6-8,2021,4,Saturday,True
+2021-04-25,HOME_GAME,,Sports,BASEBALL,NORTHWESTERN,"Iowa City, Iowa",W 15-4,2021,4,Sunday,True
+2021-04-26,HOME_GAME,,Sports,BASEBALL,NORTHWESTERN,"Iowa City, Iowa",W 12-9,2021,4,Monday,False
+2021-05-07,HOME_GAME,,Sports,BASEBALL,PENN STATE,"Iowa City, Iowa",W 4-2,2021,5,Friday,False
+2021-05-08,HOME_GAME,,Sports,BASEBALL,PENN STATE,"Iowa City, Iowa",W 5-3,2021,5,Saturday,True
+2021-05-08,HOME_GAME,,Sports,BASEBALL,PENN STATE,"Iowa City, Iowa",L 4-5,2021,5,Saturday,True
+2021-05-14,HOME_GAME,,Sports,BASEBALL,ILLINOIS,"Iowa City, Iowa",W 5-4,2021,5,Friday,False
+2021-05-15,HOME_GAME,,Sports,BASEBALL,ILLINOIS,"Iowa City, Iowa",L 1-14,2021,5,Saturday,True
+2021-05-16,HOME_GAME,,Sports,BASEBALL,ILLINOIS,"Iowa City, Iowa",L 2-6,2021,5,Sunday,True
+2021-08-23,CLASS_START,Opening of Classes,Academic,,,,,2021,8,Monday,False
+2021-09-04,HOME_GAME,,Sports,FOOTBALL,#17 INDIANA,"Iowa City, Iowa",W 34-6,2021,9,Saturday,True
+2021-09-06,HOLIDAY,Labor Day - University Holiday--No Classes; Offices Closed,Academic,,,,,2021,9,Monday,False
+2021-09-18,HOME_GAME,,Sports,FOOTBALL,KENT STATE,"Iowa City, Iowa",W 30-7,2021,9,Saturday,True
+2021-09-25,HOME_GAME,,Sports,FOOTBALL,COLORADO STATE,"Iowa City, Iowa",W 24-14,2021,9,Saturday,True
+2021-10-09,HOME_GAME,,Sports,FOOTBALL,#4 PENN STATE,"Iowa City, Iowa",W 23-20,2021,10,Saturday,True
+2021-10-16,HOME_GAME,,Sports,FOOTBALL,PURDUE,"Iowa City, Iowa",L 7-24,2021,10,Saturday,True
+2021-10-31,HOME_GAME,,Sports,FOOTBALL,NORTHWESTERN,"Iowa City, Iowa",L 20-21,2021,10,Sunday,True
+2021-11-05,HOME_GAME,,Sports,BASKETBALL,SLIPPERY ROCK,"Iowa City, IA",W 99-47,2021,11,Friday,False
+2021-11-07,HOME_GAME,,Sports,FOOTBALL,MICHIGAN STATE,"Iowa City, Iowa",W 49-7,2021,11,Sunday,True
+2021-11-09,HOME_GAME,,Sports,BASKETBALL,LONGWOOD,"Iowa City, Iowa",W 106-73,2021,11,Tuesday,False
+2021-11-12,HOME_GAME,,Sports,BASKETBALL,KANSAS CITY,"Iowa City, IA",W 89-57,2021,11,Friday,False
+2021-11-13,HOME_GAME,,Sports,FOOTBALL,MINNESOTA,"Iowa City, Iowa",W 27-22,2021,11,Saturday,True
+2021-11-16,HOME_GAME,,Sports,BASKETBALL,NORTH CAROLINA CENTRAL,"Iowa City, IA",W 86-69,2021,11,Tuesday,False
+2021-11-18,HOME_GAME,,Sports,BASKETBALL,ALABAMA STATE,"Iowa City, IA",W 108-82,2021,11,Thursday,False
+2021-11-19,HOME_MATCH,,Sports,WRESTLING,PRINCETON,"Iowa City, Iowa",W 32-12,2021,11,Friday,False
+2021-11-20,HOME_GAME,,Sports,FOOTBALL,ILLINOIS,"Iowa City, Iowa",W 33-23,2021,11,Saturday,True
+2021-11-21,BREAK_START,Fall Break Start,Academic,,,,,2021,11,Sunday,True
+2021-11-22,HOME_GAME,,Sports,BASKETBALL,WESTERN MICHIGAN,"Iowa City, IA",W 109-61,2021,11,Monday,False
+2021-11-25,HOLIDAY,"University Holidays, Offices Closed",Academic,,,,,2021,11,Thursday,False
+2021-11-26,HOME_GAME,,Sports,BASKETBALL,PORTLAND STATE,"Iowa City, IA",W 85-51,2021,11,Friday,False
+2021-11-26,HOLIDAY,"University Holidays, Offices Closed",Academic,,,,,2021,11,Friday,False
+2021-11-27,HOME_GAME,,Sports,FOOTBALL,NEBRASKA,"Iowa City, Iowa",W 26-20,2021,11,Saturday,True
+2021-11-28,BREAK_END,Fall Break End,Academic,,,,,2021,11,Sunday,True
+2021-11-28,HOME_MATCH,,Sports,WRESTLING,ARMY,"Iowa City, Iowa",W 36-7,2021,11,Sunday,True
+2021-11-29,CLASS_RESUME,Classes resume,Academic,,,,,2021,11,Monday,False
+2021-12-06,HOME_GAME,,Sports,BASKETBALL,ILLINOIS,"Iowa City, IA",L 83-87,2021,12,Monday,False
+2021-12-10,CLASS_END,Close of Classes,Academic,,,,,2021,12,Friday,False
+2021-12-12,HOME_GAME,,Sports,FOOTBALL,WISCONSIN,"Iowa City, Iowa",W 28-7,2021,12,Sunday,True
+2021-12-13,FINALS_START,Final Examination Week Start,Academic,,,,,2021,12,Monday,False
+2021-12-16,COMMENCEMENT_START,Commencement ceremonies Start,Academic,,,,,2021,12,Thursday,False
+2021-12-17,FINALS_END,Final Examination Week End,Academic,,,,,2021,12,Friday,False
+2021-12-19,COMMENCEMENT_END,Commencement ceremonies End,Academic,,,,,2021,12,Sunday,True
+2021-12-20,CLASS_START,Opening of Classes,Academic,,,,,2021,12,Monday,False
+2021-12-21,HOME_GAME,,Sports,BASKETBALL,SOUTHEASTERN LOUISIANA,"Iowa City, IA",W 93-62,2021,12,Tuesday,False
+2021-12-23,HOLIDAY,"University Holiday, Offices Closed",Academic,,,,,2021,12,Thursday,False
+2021-12-24,HOLIDAY,"University Holiday, Offices Closed",Academic,,,,,2021,12,Friday,False
+2021-12-25,HOLIDAY,Federal Holiday - No Classes,Academic,,,,,2021,12,Saturday,True
+2021-12-29,HOME_GAME,,Sports,BASKETBALL,WESTERN ILLINOIS,"Iowa City, IA",W 92-71,2021,12,Wednesday,False
+2021-12-31,HOLIDAY,University Holiday--No Classes; Offices Closed,Academic,,,,,2021,12,Friday,False
+2022-01-01,HOLIDAY,Federal Holiday - No Classes,Academic,,,,,2022,1,Saturday,True
+2022-01-03,HOME_GAME,,Sports,BASKETBALL,MARYLAND,"Iowa City, IA",W 80-75,2022,1,Monday,False
+2022-01-07,HOME_MATCH,,Sports,WRESTLING,MINNESOTA,"Iowa City, Iowa",W 22-10,2022,1,Friday,False
+2022-01-09,HOME_MATCH,,Sports,WRESTLING,PURDUE,"Iowa City, Iowa",W 36-4,2022,1,Sunday,True
+2022-01-13,HOME_GAME,,Sports,BASKETBALL,INDIANA,"Iowa City, IA",W 83-74,2022,1,Thursday,False
+2022-01-14,CLASS_END,Close of Classes,Academic,,,,,2022,1,Friday,False
+2022-01-17,HOLIDAY,"Martin Luther King, Jr. Convocation--All Classes Suspended; Offices Closed",Academic,,,,,2022,1,Monday,False
+2022-01-18,CLASS_START,Opening of Classes,Academic,,,,,2022,1,Tuesday,False
+2022-01-22,HOME_GAME,,Sports,BASKETBALL,PENN STATE,"Iowa City, IA",W 68-51,2022,1,Saturday,True
+2022-01-27,HOME_GAME,,Sports,BASKETBALL,#6 PURDUE,"Iowa City, IA",L 73-83,2022,1,Thursday,False
+2022-01-28,HOME_MATCH,,Sports,WRESTLING,PENN STATE,"Iowa City, Iowa",L 13-19,2022,1,Friday,False
+2022-02-05,HOME_MATCH,,Sports,WRESTLING,WISCONSIN,"Iowa City, Iowa",W 29-6,2022,2,Saturday,True
+2022-02-06,HOME_GAME,,Sports,BASKETBALL,MINNESOTA,"Iowa City, IA",W 71-59,2022,2,Sunday,True
+2022-02-13,HOME_GAME,,Sports,BASKETBALL,NEBRASKA,"Iowa City, IA",W 98-75,2022,2,Sunday,True
+2022-02-17,HOME_GAME,,Sports,BASKETBALL,MICHIGAN,"Iowa City, IA",L 79-84,2022,2,Thursday,False
+2022-02-22,HOME_GAME,,Sports,BASKETBALL,MICHIGAN STATE,"Iowa City, IA",W 86-60,2022,2,Tuesday,False
+2022-02-28,HOME_GAME,,Sports,BASKETBALL,NORTHWESTERN,"Iowa City, IA",W 82-61,2022,2,Monday,False
+2022-03-01,HOME_GAME,,Sports,BASEBALL,LORAS COLLEGE,"Iowa City, Iowa",L 1-3,2022,3,Tuesday,False
+2022-03-02,HOME_GAME,,Sports,BASEBALL,CORNELL COLLEGE,"Iowa City, Iowa",W 8-0,2022,3,Wednesday,False
+2022-03-13,BREAK_START,Spring Break Start,Academic,,,,,2022,3,Sunday,True
+2022-03-19,HOME_GAME,,Sports,BASEBALL,#12/17 TEXAS TECH,"Iowa City, Iowa",L 3-11,2022,3,Saturday,True
+2022-03-20,BREAK_END,Spring Break End,Academic,,,,,2022,3,Sunday,True
+2022-03-20,HOME_GAME,,Sports,BASEBALL,#12/17 TEXAS TECH,"Iowa City, Iowa",W 6-3,2022,3,Sunday,True
+2022-03-21,HOME_GAME,,Sports,BASEBALL,ST. THOMAS,"Iowa City, Iowa",W 6-5,2022,3,Monday,False
+2022-03-21,CLASS_RESUME,Classes resume,Academic,,,,,2022,3,Monday,False
+2022-03-25,HOME_GAME,,Sports,BASEBALL,CENTRAL MICHIGAN,"Iowa City, Iowa",W 7-4,2022,3,Friday,False
+2022-03-26,HOME_GAME,,Sports,BASEBALL,CENTRAL MICHIGAN,"Iowa City, Iowa",L 1-10,2022,3,Saturday,True
+2022-03-27,HOME_GAME,,Sports,BASEBALL,CENTRAL MICHIGAN,"Iowa City, Iowa",W 4-2,2022,3,Sunday,True
+2022-04-09,HOME_GAME,,Sports,BASEBALL,ILLINOIS,"Iowa City, Iowa",L 5-7,2022,4,Saturday,True
+2022-04-09,HOME_GAME,,Sports,BASEBALL,ILLINOIS,"Iowa City, Iowa",W 4-2,2022,4,Saturday,True
+2022-04-10,HOME_GAME,,Sports,BASEBALL,ILLINOIS,"Iowa City, Iowa",L 5-9,2022,4,Sunday,True
+2022-04-15,HOME_GAME,,Sports,BASEBALL,MINNESOTA,"Iowa City, Iowa",W 9-3,2022,4,Friday,False
+2022-04-16,HOME_GAME,,Sports,BASEBALL,MINNESOTA,"Iowa City, Iowa",W 2-1,2022,4,Saturday,True
+2022-04-17,HOME_GAME,,Sports,BASEBALL,MINNESOTA,"Iowa City, Iowa",W 9-3,2022,4,Sunday,True
+2022-04-19,HOME_GAME,,Sports,BASEBALL,BRADLEY,"Iowa City, Iowa",W 15-8,2022,4,Tuesday,False
+2022-04-26,HOME_GAME,,Sports,BASEBALL,WESTERN ILLINOIS,"Iowa City, Iowa",W 11-1,2022,4,Tuesday,False
+2022-05-03,HOME_GAME,,Sports,BASEBALL,ILLINOIS STATE,"Iowa City, Iowa",L 2-3,2022,5,Tuesday,False
+2022-05-06,CLASS_END,Close of Classes,Academic,,,,,2022,5,Friday,False
+2022-05-06,HOME_GAME,,Sports,BASEBALL,PURDUE,"Iowa City, Iowa",W 5-2,2022,5,Friday,False
+2022-05-07,HOME_GAME,,Sports,BASEBALL,PURDUE,"Iowa City, Iowa",L 6-10,2022,5,Saturday,True
+2022-05-08,HOME_GAME,,Sports,BASEBALL,PURDUE,"Iowa City, Iowa",W 9-1,2022,5,Sunday,True
+2022-05-09,FINALS_START,Final Examination Week Start,Academic,,,,,2022,5,Monday,False
+2022-05-12,COMMENCEMENT_START,Commencement ceremonies Start,Academic,,,,,2022,5,Thursday,False
+2022-05-13,FINALS_END,Final Examination Week End,Academic,,,,,2022,5,Friday,False
+2022-05-15,COMMENCEMENT_END,Commencement ceremonies End,Academic,,,,,2022,5,Sunday,True
+2022-05-16,CLASS_START,Opening of Classes,Academic,,,,,2022,5,Monday,False
+2022-05-19,HOME_GAME,,Sports,BASEBALL,INDIANA,"Iowa City, Iowa",W 30-16,2022,5,Thursday,False
+2022-05-20,HOME_GAME,,Sports,BASEBALL,INDIANA,"Iowa City, Iowa",W 12-0,2022,5,Friday,False
+2022-05-21,HOME_GAME,,Sports,BASEBALL,INDIANA,"Iowa City, Iowa",W 2-1,2022,5,Saturday,True
+2022-05-30,HOLIDAY,"Memorial Day - University Holiday--No Classes, Offices Closed",Academic,,,,,2022,5,Monday,False
+2022-07-04,HOLIDAY,"Independence Day - University Holiday--No Classes, Offices Closed",Academic,,,,,2022,7,Monday,False
+2022-08-05,CLASS_END,Close of Classes,Academic,,,,,2022,8,Friday,False
+2022-08-22,CLASS_START,Opening of Classes,Academic,,,,,2022,8,Monday,False
+2022-09-03,HOME_GAME,,Sports,FOOTBALL,SOUTH DAKOTA STATE,"Iowa City, Iowa",W 7-3,2022,9,Saturday,True
+2022-09-05,HOLIDAY,Labor Day - University Holiday--No Classes; Offices Closed,Academic,,,,,2022,9,Monday,False
+2022-09-10,HOME_GAME,,Sports,FOOTBALL,IOWA STATE,"Iowa City, Iowa",L 7-10,2022,9,Saturday,True
+2022-09-17,HOME_GAME,,Sports,FOOTBALL,NEVADA,"Iowa City, Iowa",W 27-0,2022,9,Saturday,True
+2022-10-01,HOME_GAME,,Sports,FOOTBALL,#4 MICHIGAN,"Iowa City, Iowa",L 14-27,2022,10,Saturday,True
+2022-10-29,HOME_GAME,,Sports,FOOTBALL,NORTHWESTERN,"Iowa City, Iowa",W 33-13,2022,10,Saturday,True
+2022-10-31,HOME_GAME,,Sports,BASKETBALL,TRUMAN STATE,"Iowa City, IA",W 118-72,2022,10,Monday,False
+2022-11-07,HOME_GAME,,Sports,BASKETBALL,BETHUNE-COOKMAN,"Iowa City, IA",W 89-58,2022,11,Monday,False
+2022-11-11,HOME_GAME,,Sports,BASKETBALL,NORTH CAROLINA A&T,"Iowa City, IA",W 112-71,2022,11,Friday,False
+2022-11-12,HOME_GAME,,Sports,FOOTBALL,WISCONSIN,"Iowa City, Iowa",W 24-10,2022,11,Saturday,True
+2022-11-13,HOME_MATCH,,Sports,WRESTLING,CALIFORNIA BAPTIST,"Iowa City, Iowa",W 42-3,2022,11,Sunday,True
+2022-11-20,BREAK_START,Fall Break Start,Academic,,,,,2022,11,Sunday,True
+2022-11-21,HOME_GAME,,Sports,BASKETBALL,OMAHA,"Iowa City, IA",W 100-64,2022,11,Monday,False
+2022-11-24,HOLIDAY,"University Holidays, Offices Closed",Academic,,,,,2022,11,Thursday,False
+2022-11-25,HOLIDAY,"University Holidays, Offices Closed",Academic,,,,,2022,11,Friday,False
+2022-11-25,HOME_GAME,,Sports,FOOTBALL,NEBRASKA,"Iowa City, Iowa",L 17-24,2022,11,Friday,False
+2022-11-26,HOME_MATCH,,Sports,WRESTLING,#21 PENN,"Iowa City, Iowa",W 26-11,2022,11,Saturday,True
+2022-11-27,BREAK_END,Fall Break End,Academic,,,,,2022,11,Sunday,True
+2022-11-28,CLASS_RESUME,Classes resume,Academic,,,,,2022,11,Monday,False
+2022-11-29,HOME_GAME,,Sports,BASKETBALL,GEORGIA TECH,"Iowa City, IA",W 81-65,2022,11,Tuesday,False
+2022-12-04,HOME_MATCH,,Sports,WRESTLING,#7 IOWA STATE,"Iowa City, Iowa",W 18-15,2022,12,Sunday,True
+2022-12-08,HOME_GAME,,Sports,BASKETBALL,#20 IOWA STATE,"Iowa City, IA",W 75-56,2022,12,Thursday,False
+2022-12-09,CLASS_END,Close of Classes,Academic,,,,,2022,12,Friday,False
+2022-12-11,HOME_GAME,,Sports,BASKETBALL,WISCONSIN,"Iowa City, Iowa",L 75-78,2022,12,Sunday,True
+2022-12-12,FINALS_START,Final Examination Week Start,Academic,,,,,2022,12,Monday,False
+2022-12-15,COMMENCEMENT_START,Commencement ceremonies Start,Academic,,,,,2022,12,Thursday,False
+2022-12-16,FINALS_END,Final Examination Week End,Academic,,,,,2022,12,Friday,False
+2022-12-17,HOME_GAME,,Sports,BASKETBALL,SOUTHEAST MISSOURI STATE,"Iowa City, IA",W 106-75,2022,12,Saturday,True
+2022-12-18,COMMENCEMENT_END,Commencement ceremonies End,Academic,,,,,2022,12,Sunday,True
+2022-12-19,CLASS_START,Opening of Classes,Academic,,,,,2022,12,Monday,False
+2022-12-21,HOME_GAME,,Sports,BASKETBALL,EASTERN ILLINOIS,"Iowa City, IA",L 83-92,2022,12,Wednesday,False
+2022-12-25,HOLIDAY,Federal Holiday - No Classes,Academic,,,,,2022,12,Sunday,True
+2022-12-26,HOLIDAY,"University Holiday, Offices Closed",Academic,,,,,2022,12,Monday,False
+2022-12-27,HOLIDAY,"University Holiday, Offices Closed",Academic,,,,,2022,12,Tuesday,False
+2023-01-01,HOLIDAY,Federal Holiday - No Classes,Academic,,,,,2023,1,Sunday,True
+2023-01-02,HOLIDAY,University Holiday--No Classes; Offices Closed,Academic,,,,,2023,1,Monday,False
+2023-01-05,HOME_GAME,,Sports,BASKETBALL,#15 INDIANA,"Iowa City, Iowa",W 91-89,2023,1,Thursday,False
+2023-01-06,HOME_MATCH,,Sports,WRESTLING,ILLINOIS,"Iowa City, Iowa",W 25-19,2023,1,Friday,False
+2023-01-12,HOME_GAME,,Sports,BASKETBALL,MICHIGAN,"Iowa City, Iowa",W 93-84,2023,1,Thursday,False
+2023-01-13,CLASS_END,Close of Classes,Academic,,,,,2023,1,Friday,False
+2023-01-13,HOME_MATCH,,Sports,WRESTLING,#11 NORTHWESTERN,"Iowa City, Iowa",W 27-9,2023,1,Friday,False
+2023-01-15,HOME_GAME,,Sports,BASKETBALL,MARYLAND,"Iowa City, Iowa",W 81-67,2023,1,Sunday,True
+2023-01-16,HOLIDAY,"Martin Luther King, Jr. Convocation--All Classes Suspended; Offices Closed",Academic,,,,,2023,1,Monday,False
+2023-01-17,CLASS_START,Opening of Classes,Academic,,,,,2023,1,Tuesday,False
+2023-01-20,HOME_MATCH,,Sports,WRESTLING,#11 NEBRASKA,"Iowa City, Iowa",W 34-6,2023,1,Friday,False
+2023-01-29,HOME_GAME,,Sports,BASKETBALL,RUTGERS,"Iowa City, Iowa",W 93-82,2023,1,Sunday,True
+2023-01-31,HOME_GAME,,Sports,BASKETBALL,NORTHWESTERN,"Iowa City, Iowa",W 86-70,2023,1,Tuesday,False
+2023-02-04,HOME_GAME,,Sports,BASKETBALL,ILLINOIS,"Iowa City, Iowa",W 81-79,2023,2,Saturday,True
+2023-02-10,HOME_MATCH,,Sports,WRESTLING,#9 MICHIGAN,"Iowa City, Iowa",W 33-8,2023,2,Friday,False
+2023-02-16,HOME_GAME,,Sports,BASKETBALL,OHIO STATE,"Iowa City, Iowa",W 92-75,2023,2,Thursday,False
+2023-02-19,HOME_MATCH,,Sports,WRESTLING,#6 OKLAHOMA STATE,"Iowa City, Iowa",W 28-7,2023,2,Sunday,True
+2023-02-25,HOME_GAME,,Sports,BASKETBALL,MICHIGAN STATE,"Iowa City, Iowa",W 112-106,2023,2,Saturday,True
+2023-02-28,HOME_GAME,,Sports,BASEBALL,LORAS,"Iowa City, IA",W 9-2,2023,2,Tuesday,False
+2023-03-05,HOME_GAME,,Sports,BASKETBALL,NEBRASKA,"Iowa City, Iowa",L 77-81,2023,3,Sunday,True
+2023-03-07,HOME_GAME,,Sports,BASEBALL,COE,"Iowa City, IA",W 8-2,2023,3,Tuesday,False
+2023-03-12,BREAK_START,Spring Break Start,Academic,,,,,2023,3,Sunday,True
+2023-03-15,HOME_GAME,,Sports,BASEBALL,ST. THOMAS,"Iowa City, IA",W 10-1,2023,3,Wednesday,False
+2023-03-19,HOME_GAME,,Sports,BASEBALL,SOUTH DAKOTA STATE,"Iowa City, IA",W 5-3,2023,3,Sunday,True
+2023-03-19,HOME_GAME,,Sports,BASEBALL,SOUTH DAKOTA STATE,"Iowa City, IA",W 12-2,2023,3,Sunday,True
+2023-03-19,BREAK_END,Spring Break End,Academic,,,,,2023,3,Sunday,True
+2023-03-20,CLASS_RESUME,Classes resume,Academic,,,,,2023,3,Monday,False
+2023-03-22,HOME_GAME,,Sports,BASEBALL,GRAND VIEW,"Iowa City, IA",W 12-1,2023,3,Wednesday,False
+2023-03-24,HOME_GAME,,Sports,BASEBALL,WESTERN MICHIGAN,"Iowa City, IA",W 9-3,2023,3,Friday,False
+2023-03-25,HOME_GAME,,Sports,BASEBALL,WESTERN MICHIGAN,"Iowa City, IA",W 13-8,2023,3,Saturday,True
+2023-03-25,HOME_GAME,,Sports,BASEBALL,WESTERN MICHIGAN,"Iowa City, IA",W 21-6,2023,3,Saturday,True
+2023-03-31,HOME_GAME,,Sports,BASEBALL,MARYLAND,"Iowa City, IA",L 9-10,2023,3,Friday,False
+2023-04-01,HOME_GAME,,Sports,BASEBALL,MARYLAND,"Iowa City, IA",L 4-7,2023,4,Saturday,True
+2023-04-02,HOME_GAME,,Sports,BASEBALL,MARYLAND,"Iowa City, IA",W 12-8,2023,4,Sunday,True
+2023-04-12,HOME_GAME,,Sports,BASEBALL,UNIVERSITY OF WISCONSIN-MILWAUKEE,"Iowa City, IA",W 12-1,2023,4,Wednesday,False
+2023-04-19,HOME_GAME,,Sports,BASEBALL,BRADLEY,"Iowa City, IA",W 6-1,2023,4,Wednesday,False
+2023-04-21,HOME_GAME,,Sports,BASEBALL,NEBRASKA,"Iowa City, IA",W 11-6,2023,4,Friday,False
+2023-04-22,HOME_GAME,,Sports,BASEBALL,NEBRASKA,"Iowa City, IA",W 8-0,2023,4,Saturday,True
+2023-04-23,HOME_GAME,,Sports,BASEBALL,NEBRASKA,"Iowa City, IA",W 6-1,2023,4,Sunday,True
+2023-04-25,HOME_GAME,,Sports,BASEBALL,UPPER IOWA,"Iowa City, Iowa",W 16-0,2023,4,Tuesday,False
+2023-05-02,HOME_GAME,,Sports,BASEBALL,ILLINOIS STATE,"Iowa City, IA",W 7-4,2023,5,Tuesday,False
+2023-05-05,HOME_GAME,,Sports,BASEBALL,OHIO STATE,"Iowa City, IA",W 16-9,2023,5,Friday,False
+2023-05-05,CLASS_END,Close of Classes,Academic,,,,,2023,5,Friday,False
+2023-05-06,HOME_GAME,,Sports,BASEBALL,OHIO STATE,"Iowa City, IA",W 15-3,2023,5,Saturday,True
+2023-05-07,HOME_GAME,,Sports,BASEBALL,OHIO STATE,"Iowa City, IA",L 2-5,2023,5,Sunday,True
+2023-05-08,FINALS_START,Final Examination Week Start,Academic,,,,,2023,5,Monday,False
+2023-05-11,COMMENCEMENT_START,Commencement ceremonies Start,Academic,,,,,2023,5,Thursday,False
+2023-05-12,HOME_GAME,,Sports,BASEBALL,MICHIGAN STATE,"Iowa City, IA",W 9-0,2023,5,Friday,False
+2023-05-12,FINALS_END,Final Examination Week End,Academic,,,,,2023,5,Friday,False
+2023-05-13,HOME_GAME,,Sports,BASEBALL,MICHIGAN STATE,"Iowa City, IA",W 8-6,2023,5,Saturday,True
+2023-05-14,COMMENCEMENT_END,Commencement ceremonies End,Academic,,,,,2023,5,Sunday,True
+2023-05-14,HOME_GAME,,Sports,BASEBALL,MICHIGAN STATE,"Iowa City, IA",W 5-1,2023,5,Sunday,True
+2023-05-15,CLASS_START,Opening of Classes,Academic,,,,,2023,5,Monday,False
+2023-05-29,HOLIDAY,"Memorial Day - University Holiday--No Classes, Offices Closed",Academic,,,,,2023,5,Monday,False
+2023-07-04,HOLIDAY,"Independence Day - University Holiday--No Classes, Offices Closed",Academic,,,,,2023,7,Tuesday,False
+2023-08-04,CLASS_END,Close of Classes,Academic,,,,,2023,8,Friday,False
+2023-08-21,CLASS_START,Opening of Classes,Academic,,,,,2023,8,Monday,False
+2023-09-02,HOME_GAME,,Sports,FOOTBALL,UTAH STATE,"Iowa City, Iowa",W 24-14,2023,9,Saturday,True
+2023-09-04,HOLIDAY,Labor Day - University Holiday--No Classes; Offices Closed,Academic,,,,,2023,9,Monday,False
+2023-09-16,HOME_GAME,,Sports,FOOTBALL,WESTERN MICHIGAN,"Iowa City, Iowa",W 41-10,2023,9,Saturday,True
+2023-09-30,HOME_GAME,,Sports,FOOTBALL,MICHIGAN STATE,"Iowa City, Iowa",W 26-16,2023,9,Saturday,True
+2023-10-07,HOME_GAME,,Sports,FOOTBALL,PURDUE,"Iowa City, Iowa",W 20-14,2023,10,Saturday,True
+2023-10-21,HOME_GAME,,Sports,FOOTBALL,MINNESOTA,"Iowa City, Iowa",L 10-12,2023,10,Saturday,True
+2023-10-30,HOME_GAME,,Sports,BASKETBALL,QUINCY,"Iowa City, Iowa",W 103-76,2023,10,Monday,False
+2023-11-07,HOME_GAME,,Sports,BASKETBALL,NORTH DAKOTA,"Iowa City, Iowa",W 110-68,2023,11,Tuesday,False
+2023-11-10,HOME_GAME,,Sports,BASKETBALL,ALABAMA STATE,"Iowa City, Iowa",W 98-67,2023,11,Friday,False
+2023-11-11,HOME_GAME,,Sports,FOOTBALL,RUTGERS,"Iowa City, Iowa",W 22-0,2023,11,Saturday,True
+2023-11-17,HOME_GAME,,Sports,BASKETBALL,ARKANSAS STATE,"Iowa City, Iowa",W 88-74,2023,11,Friday,False
+2023-11-18,HOME_GAME,,Sports,FOOTBALL,ILLINOIS,"Iowa City, Iowa",W 15-13,2023,11,Saturday,True
+2023-11-19,HOME_MATCH,,Sports,WRESTLING,#16 OREGON STATE,"Iowa City, Iowa",W 25-11,2023,11,Sunday,True
+2023-11-19,BREAK_START,Fall Break Start,Academic,,,,,2023,11,Sunday,True
+2023-11-23,HOLIDAY,"University Holidays, Offices Closed",Academic,,,,,2023,11,Thursday,False
+2023-11-24,HOLIDAY,"University Holidays, Offices Closed",Academic,,,,,2023,11,Friday,False
+2023-11-26,BREAK_END,Fall Break End,Academic,,,,,2023,11,Sunday,True
+2023-11-27,CLASS_RESUME,Classes resume,Academic,,,,,2023,11,Monday,False
+2023-11-29,HOME_GAME,,Sports,BASKETBALL,NORTH FLORIDA,"Iowa City, Iowa",W 103-78,2023,11,Wednesday,False
+2023-12-08,CLASS_END,Close of Classes,Academic,,,,,2023,12,Friday,False
+2023-12-08,HOME_MATCH,,Sports,WRESTLING,COLUMBIA,"Iowa City, Iowa",W 38-3,2023,12,Friday,False
+2023-12-10,HOME_GAME,,Sports,BASKETBALL,MICHIGAN,"Iowa City, Iowa",L 80-90,2023,12,Sunday,True
+2023-12-11,FINALS_START,Final Examination Week Start,Academic,,,,,2023,12,Monday,False
+2023-12-14,COMMENCEMENT_START,Commencement ceremonies Start,Academic,,,,,2023,12,Thursday,False
+2023-12-15,FINALS_END,Final Examination Week End,Academic,,,,,2023,12,Friday,False
+2023-12-17,COMMENCEMENT_END,Commencement ceremonies End,Academic,,,,,2023,12,Sunday,True
+2023-12-18,CLASS_START,Opening of Classes,Academic,,,,,2023,12,Monday,False
+2023-12-20,HOME_GAME,,Sports,BASKETBALL,UMBC,"Iowa City, Iowa",W 103-81,2023,12,Wednesday,False
+2023-12-25,HOLIDAY,"University Holiday, Offices Closed",Academic,,,,,2023,12,Monday,False
+2023-12-25,HOLIDAY,Federal Holiday - No Classes,Academic,,,,,2023,12,Monday,False
+2023-12-26,HOLIDAY,"University Holiday, Offices Closed",Academic,,,,,2023,12,Tuesday,False
+2023-12-29,HOME_GAME,,Sports,BASKETBALL,NORTHERN ILLINOIS,"Iowa City, Iowa",W 103-74,2023,12,Friday,False
+2024-01-01,HOLIDAY,Federal Holiday - No Classes,Academic,,,,,2024,1,Monday,False
+2024-01-01,HOLIDAY,University Holiday--No Classes; Offices Closed,Academic,,,,,2024,1,Monday,False
+2024-01-06,HOME_GAME,,Sports,BASKETBALL,RUTGERS,"Iowa City, Iowa",W 86-77,2024,1,Saturday,True
+2024-01-12,CLASS_END,Close of Classes,Academic,,,,,2024,1,Friday,False
+2024-01-12,HOME_GAME,,Sports,BASKETBALL,NEBRASKA,"Iowa City, Iowa",W 94-76,2024,1,Friday,False
+2024-01-15,HOME_MATCH,,Sports,WRESTLING,#10 MINNESOTA,"Iowa City, Iowa",W 22-9,2024,1,Monday,False
+2024-01-15,HOLIDAY,"Martin Luther King, Jr. Convocation--All Classes Suspended; Offices Closed",Academic,,,,,2024,1,Monday,False
+2024-01-16,CLASS_START,Opening of Classes,Academic,,,,,2024,1,Tuesday,False
+2024-01-19,HOME_MATCH,,Sports,WRESTLING,PURDUE,"Iowa City, Iowa",W 34-6,2024,1,Friday,False
+2024-01-20,HOME_GAME,,Sports,BASKETBALL,#2 PURDUE,"Iowa City, Iowa",L 70-84,2024,1,Saturday,True
+2024-01-24,HOME_GAME,,Sports,BASKETBALL,MARYLAND,"Iowa City, Iowa",L 67-69,2024,1,Wednesday,False
+2024-02-02,HOME_GAME,,Sports,BASKETBALL,OHIO STATE,"Iowa City, Iowa",W 79-77,2024,2,Friday,False
+2024-02-09,HOME_MATCH,,Sports,WRESTLING,#1 PENN STATE,"Iowa City, Iowa",L 6-29,2024,2,Friday,False
+2024-02-11,HOME_GAME,,Sports,BASKETBALL,MINNESOTA,"Iowa City, Iowa",W 90-85,2024,2,Sunday,True
+2024-02-17,HOME_GAME,,Sports,BASKETBALL,#20 WISCONSIN,"Iowa City, Iowa",W 88-86,2024,2,Saturday,True
+2024-02-18,HOME_MATCH,,Sports,WRESTLING,WISCONSIN,"Iowa City, Iowa",W 34-7,2024,2,Sunday,True
+2024-02-20,HOME_GAME,,Sports,BASEBALL,LORAS,"Iowa City, Iowa",W 20-6,2024,2,Tuesday,False
+2024-02-27,HOME_GAME,,Sports,BASKETBALL,PENN STATE,"Iowa City, Iowa",W 90-81,2024,2,Tuesday,False
+2024-02-27,HOME_GAME,,Sports,BASEBALL,NORTHERN ILLINOIS,"Iowa City, Iowa",W 14-6,2024,2,Tuesday,False
+2024-03-05,HOME_GAME,,Sports,BASEBALL,ST. THOMAS,"Iowa City, Iowa",W 9-3,2024,3,Tuesday,False
+2024-03-10,HOME_GAME,,Sports,BASKETBALL,#12 ILLINOIS,"Iowa City, Iowa",L 61-73,2024,3,Sunday,True
+2024-03-10,BREAK_START,Spring Break Start,Academic,,,,,2024,3,Sunday,True
+2024-03-15,HOME_GAME,,Sports,BASEBALL,WESTERN ILLINOIS,"Iowa City, Iowa",W 11-1,2024,3,Friday,False
+2024-03-16,HOME_GAME,,Sports,BASEBALL,WESTERN ILLINOIS,"Iowa City, Iowa",W 19-9,2024,3,Saturday,True
+2024-03-16,HOME_GAME,,Sports,BASEBALL,WESTERN ILLINOIS,"Iowa City, Iowa",W 17-7,2024,3,Saturday,True
+2024-03-17,BREAK_END,Spring Break End,Academic,,,,,2024,3,Sunday,True
+2024-03-18,CLASS_RESUME,Classes resume,Academic,,,,,2024,3,Monday,False
+2024-03-19,HOME_GAME,,Sports,BASKETBALL,KANSAS STATE,"Iowa City, Iowa",W 91-82,2024,3,Tuesday,False
+2024-03-19,HOME_GAME,,Sports,BASEBALL,GRAND VIEW,"Iowa City, Iowa",W 25-3,2024,3,Tuesday,False
+2024-03-29,HOME_GAME,,Sports,BASEBALL,MINNESOTA,"Iowa City, Iowa",L 9-16,2024,3,Friday,False
+2024-03-30,HOME_GAME,,Sports,BASEBALL,MINNESOTA,"Iowa City, Iowa",W 14-6,2024,3,Saturday,True
+2024-03-31,HOME_GAME,,Sports,BASEBALL,MINNESOTA,"Iowa City, Iowa",W 10-4,2024,3,Sunday,True
+2024-04-05,HOME_GAME,,Sports,BASEBALL,MICHIGAN,"Iowa City, Iowa",W 3-2,2024,4,Friday,False
+2024-04-06,HOME_GAME,,Sports,BASEBALL,MICHIGAN,"Iowa City, Iowa",L 6-10,2024,4,Saturday,True
+2024-04-06,HOME_GAME,,Sports,BASEBALL,MICHIGAN,"Iowa City, Iowa",L 3-4,2024,4,Saturday,True
+2024-04-10,HOME_GAME,,Sports,BASEBALL,ST. THOMAS,"Iowa City, Iowa",W 17-11,2024,4,Wednesday,False
+2024-04-17,HOME_GAME,,Sports,BASEBALL,BRADLEY,"Iowa City, Iowa",W 11-6,2024,4,Wednesday,False
+2024-04-19,HOME_GAME,,Sports,BASEBALL,RUTGERS,"Iowa City, Iowa",W 8-1,2024,4,Friday,False
+2024-04-20,HOME_GAME,,Sports,BASEBALL,RUTGERS,"Iowa City, Iowa",W 15-5,2024,4,Saturday,True
+2024-04-21,HOME_GAME,,Sports,BASEBALL,RUTGERS,"Iowa City, Iowa",W 5-1,2024,4,Sunday,True
+2024-04-23,HOME_GAME,,Sports,BASEBALL,MILWAUKEE,"Iowa City, Iowa",W 12-6,2024,4,Tuesday,False
+2024-04-30,HOME_GAME,,Sports,BASEBALL,ILLINOIS STATE,"Iowa City, Iowa",W 8-7,2024,4,Tuesday,False
+2024-05-01,HOME_GAME,,Sports,BASEBALL,NORTH DAKOTA STATE,"Iowa City, Iowa",L 14-21,2024,5,Wednesday,False
+2024-05-03,CLASS_END,Close of Classes,Academic,,,,,2024,5,Friday,False
+2024-05-03,HOME_GAME,,Sports,BASEBALL,NORTHWESTERN,"Iowa City, Iowa",W 4-3,2024,5,Friday,False
+2024-05-04,HOME_GAME,,Sports,BASEBALL,NORTHWESTERN,"Iowa City, Iowa",W 9-2,2024,5,Saturday,True
+2024-05-05,HOME_GAME,,Sports,BASEBALL,NORTHWESTERN,"Iowa City, Iowa",W 6-5,2024,5,Sunday,True
+2024-05-06,FINALS_START,Final Examination Week Start,Academic,,,,,2024,5,Monday,False
+2024-05-09,COMMENCEMENT_START,Commencement ceremonies Start,Academic,,,,,2024,5,Thursday,False
+2024-05-10,FINALS_END,Final Examination Week End,Academic,,,,,2024,5,Friday,False
+2024-05-12,COMMENCEMENT_END,Commencement ceremonies End,Academic,,,,,2024,5,Sunday,True
+2024-05-13,CLASS_START,Opening of Classes,Academic,,,,,2024,5,Monday,False
+2024-05-27,HOLIDAY,"Memorial Day - University Holiday--No Classes, Offices Closed",Academic,,,,,2024,5,Monday,False
+2024-07-04,HOLIDAY,Independence Day - Federal Holiday - No Classes,Academic,,,,,2024,7,Thursday,False
+2024-08-02,CLASS_END,Close of Classes,Academic,,,,,2024,8,Friday,False
+2024-08-26,CLASS_START,Opening of Classes,Academic,,,,,2024,8,Monday,False
+2024-08-31,HOME_GAME,,Sports,FOOTBALL,ILLINOIS STATE,"Iowa City, Iowa",W 40-0,2024,8,Saturday,True
+2024-09-02,HOLIDAY,Labor Day - University Holiday--No Classes; Offices Closed,Academic,,,,,2024,9,Monday,False
+2024-09-07,HOME_GAME,,Sports,FOOTBALL,IOWA STATE,"Iowa City, Iowa",L 19-20,2024,9,Saturday,True
+2024-09-14,HOME_GAME,,Sports,FOOTBALL,TROY,"Iowa City, Iowa",W 38-21,2024,9,Saturday,True
+2024-10-12,HOME_GAME,,Sports,FOOTBALL,WASHINGTON,"Iowa City, Iowa",W 40-16,2024,10,Saturday,True
+2024-10-25,HOME_GAME,,Sports,BASKETBALL,MINNESOTA-DULUTH,"Iowa City, Iowa",W 102-81,2024,10,Friday,False
+2024-10-26,HOME_GAME,,Sports,FOOTBALL,NORTHWESTERN,"Iowa City, Iowa",W 40-14,2024,10,Saturday,True
+2024-11-02,HOME_GAME,,Sports,FOOTBALL,WISCONSIN,"Iowa City, Iowa",W 42-10,2024,11,Saturday,True
+2024-11-04,HOME_GAME,,Sports,BASKETBALL,TEXAS A&M COMMERCE,"Iowa City, Iowa",W 89-67,2024,11,Monday,False
+2024-11-07,HOME_GAME,,Sports,BASKETBALL,SOUTHERN,"Iowa City, Iowa",W 89-74,2024,11,Thursday,False
+2024-11-09,HOME_MATCH,,Sports,WRESTLING,#20 STANFORD,"Iowa City, Iowa",W 32-9,2024,11,Saturday,True
+2024-11-12,HOME_GAME,,Sports,BASKETBALL,SOUTH DAKOTA,"Iowa City, Iowa",W 96-77,2024,11,Tuesday,False
+2024-11-19,HOME_GAME,,Sports,BASKETBALL,RIDER,"Iowa City, Iowa",W 83-58,2024,11,Tuesday,False
+2024-11-23,HOME_MATCH,,Sports,WRESTLING,#12 IOWA STATE,"Iowa City, Iowa",W 21-15,2024,11,Saturday,True
+2024-11-24,BREAK_START,Fall Break Start,Academic,,,,,2024,11,Sunday,True
+2024-11-26,HOME_GAME,,Sports,BASKETBALL,USC UPSTATE,"Iowa City, Iowa",W 110-77,2024,11,Tuesday,False
+2024-11-28,HOLIDAY,"University Holidays, Offices Closed",Academic,,,,,2024,11,Thursday,False
+2024-11-29,HOME_GAME,,Sports,FOOTBALL,NEBRASKA,"Iowa City, Iowa",W 13-10,2024,11,Friday,False
+2024-11-29,HOLIDAY,"University Holidays, Offices Closed",Academic,,,,,2024,11,Friday,False
+2024-12-01,BREAK_END,Fall Break End,Academic,,,,,2024,12,Sunday,True
+2024-12-02,CLASS_RESUME,Classes resume,Academic,,,,,2024,12,Monday,False
+2024-12-03,HOME_GAME,,Sports,BASKETBALL,NORTHWESTERN,"Iowa City, Iowa",W 80-79,2024,12,Tuesday,False
+2024-12-12,HOME_GAME,,Sports,BASKETBALL,#3 IOWA STATE,"Iowa City, Iowa",L 80-89,2024,12,Thursday,False
+2024-12-13,CLASS_END,Close of Classes,Academic,,,,,2024,12,Friday,False
+2024-12-15,HOME_GAME,,Sports,BASKETBALL,NEW ORLEANS,"Iowa City, Iowa",W 104-57,2024,12,Sunday,True
+2024-12-16,FINALS_START,Final Examination Week Start,Academic,,,,,2024,12,Monday,False
+2024-12-19,COMMENCEMENT_START,Commencement ceremonies Start,Academic,,,,,2024,12,Thursday,False
+2024-12-20,FINALS_END,Final Examination Week End,Academic,,,,,2024,12,Friday,False
+2024-12-22,COMMENCEMENT_END,Commencement ceremonies End,Academic,,,,,2024,12,Sunday,True
+2024-12-23,CLASS_START,Opening of Classes,Academic,,,,,2024,12,Monday,False
+2024-12-24,HOLIDAY,"University Holiday, Offices Closed",Academic,,,,,2024,12,Tuesday,False
+2024-12-25,HOLIDAY,Federal Holiday - No Classes,Academic,,,,,2024,12,Wednesday,False
+2024-12-25,HOLIDAY,"University Holiday, Offices Closed",Academic,,,,,2024,12,Wednesday,False
+2024-12-30,HOME_GAME,,Sports,BASKETBALL,NEW HAMPSHIRE,"Iowa City, Iowa",W 112-70,2024,12,Monday,False
+2025-01-01,HOLIDAY,Federal Holiday - No Classes,Academic,,,,,2025,1,Wednesday,False
+2025-01-01,HOLIDAY,University Holiday--No Classes; Offices Closed,Academic,,,,,2025,1,Wednesday,False
+2025-01-07,HOME_GAME,,Sports,BASKETBALL,NEBRASKA,"Iowa City, Iowa",W 97-87,2025,1,Tuesday,False
+2025-01-11,HOME_GAME,,Sports,BASKETBALL,INDIANA,"Iowa City, Iowa",W 85-60,2025,1,Saturday,True
+2025-01-17,CLASS_END,Close of Classes,Academic,,,,,2025,1,Friday,False
+2025-01-17,HOME_MATCH,,Sports,WRESTLING,#9 ILLINOIS,"Iowa City, Iowa",W 28-6,2025,1,Friday,False
+2025-01-20,HOLIDAY,"Martin Luther King, Jr. Convocation--All Classes Suspended; Offices Closed",Academic,,,,,2025,1,Monday,False
+2025-01-21,CLASS_START,Opening of Classes,Academic,,,,,2025,1,Tuesday,False
+2025-01-21,HOME_GAME,,Sports,BASKETBALL,MINNESOTA,"Iowa City, Iowa",L 67-72,2025,1,Tuesday,False
+2025-01-24,HOME_GAME,,Sports,BASKETBALL,PENN STATE,"Iowa City, Iowa",W 76-75,2025,1,Friday,False
+2025-01-25,HOME_MATCH,,Sports,WRESTLING,#4 OHIO STATE,"Iowa City, Iowa",W 24-13,2025,1,Saturday,True
+2025-02-04,HOME_GAME,,Sports,BASKETBALL,#7 PURDUE,"Iowa City, Iowa",L 81-90,2025,2,Tuesday,False
+2025-02-07,HOME_MATCH,,Sports,WRESTLING,#7 NEBRASKA,"Iowa City, Iowa",W 19-16,2025,2,Friday,False
+2025-02-08,HOME_GAME,,Sports,BASKETBALL,#21 WISCONSIN,"Iowa City, Iowa",L 63-74,2025,2,Saturday,True
+2025-02-16,HOME_MATCH,,Sports,WRESTLING,NORTHWESTERN,"Iowa City, Iowa",W 37-3,2025,2,Sunday,True
+2025-02-19,HOME_GAME,,Sports,BASKETBALL,OREGON,"Iowa City, Iowa",L 78-80,2025,2,Wednesday,False
+2025-02-22,HOME_GAME,,Sports,BASKETBALL,WASHINGTON,"Iowa City, Iowa",W 85-79,2025,2,Saturday,True
+2025-02-23,HOME_MATCH,,Sports,WRESTLING,#2 OKLAHOMA STATE,"Iowa City, Iowa",W 21-16,2025,2,Sunday,True
+2025-03-03,HOME_GAME,,Sports,BASEBALL,LORAS,"Iowa City, Iowa",W 11-3,2025,3,Monday,False
+2025-03-06,HOME_GAME,,Sports,BASKETBALL,#8 MICHIGAN STATE,"Iowa City, Iowa",L 84-91,2025,3,Thursday,False
+2025-03-11,HOME_GAME,,Sports,BASEBALL,AUGUSTANA,"Iowa City, Iowa",W 16-1,2025,3,Tuesday,False
+2025-03-14,HOME_GAME,,Sports,BASEBALL,MICHIGAN STATE,"Iowa City, Iowa",W 7-3,2025,3,Friday,False
+2025-03-14,HOME_GAME,,Sports,BASEBALL,MICHIGAN STATE,"Iowa City, Iowa",L 8-12,2025,3,Friday,False
+2025-03-15,HOME_GAME,,Sports,BASEBALL,MICHIGAN STATE,"Iowa City, Iowa",W 10-0,2025,3,Saturday,True
+2025-03-16,BREAK_START,Spring Break Start,Academic,,,,,2025,3,Sunday,True
+2025-03-18,HOME_GAME,,Sports,BASEBALL,UIC,"Iowa City, Iowa",W 4-1,2025,3,Tuesday,False
+2025-03-21,HOME_GAME,,Sports,BASEBALL,OHIO STATE,"Iowa City, Iowa",W 12-0,2025,3,Friday,False
+2025-03-22,HOME_GAME,,Sports,BASEBALL,OHIO STATE,"Iowa City, Iowa",W 12-5,2025,3,Saturday,True
+2025-03-23,BREAK_END,Spring Break End,Academic,,,,,2025,3,Sunday,True
+2025-03-23,HOME_GAME,,Sports,BASEBALL,OHIO STATE,"Iowa City, Iowa",W 18-2,2025,3,Sunday,True
+2025-03-24,CLASS_RESUME,Classes resume,Academic,,,,,2025,3,Monday,False
+2025-04-08,HOME_GAME,,Sports,BASEBALL,MILWAUKEE,"Iowa City, Iowa",W 11-6,2025,4,Tuesday,False
+2025-04-11,HOME_GAME,,Sports,BASEBALL,NEBRASKA,"Iowa City, Iowa",W 1-0,2025,4,Friday,False
+2025-04-12,HOME_GAME,,Sports,BASEBALL,NEBRASKA,"Iowa City, Iowa",W 11-6,2025,4,Saturday,True
+2025-04-13,HOME_GAME,,Sports,BASEBALL,NEBRASKA,"Iowa City, Iowa",L 4-6,2025,4,Sunday,True
+2025-04-16,HOME_GAME,,Sports,BASEBALL,BRADLEY,"Iowa City, Iowa",W 12-5,2025,4,Wednesday,False
+2025-04-22,HOME_GAME,,Sports,BASEBALL,WESTERN ILLINOIS,"Iowa City, Iowa",L 3-7,2025,4,Tuesday,False
+2025-04-23,HOME_GAME,,Sports,BASEBALL,ST. THOMAS,"Iowa City, Iowa",W 15-5,2025,4,Wednesday,False
+2025-04-25,HOME_GAME,,Sports,BASEBALL,INDIANA,"Iowa City, Iowa",W 2-1,2025,4,Friday,False
+2025-04-26,HOME_GAME,,Sports,BASEBALL,INDIANA,"Iowa City, Iowa",W 13-2,2025,4,Saturday,True
+2025-04-27,HOME_GAME,,Sports,BASEBALL,INDIANA,"Iowa City, Iowa",W 10-0,2025,4,Sunday,True
+2025-04-29,HOME_GAME,,Sports,BASEBALL,ILLINOIS STATE,"Iowa City, Iowa",L 5-6,2025,4,Tuesday,False
+2025-05-09,CLASS_END,Close of Classes,Academic,,,,,2025,5,Friday,False
+2025-05-12,FINALS_START,Final Examination Week Start,Academic,,,,,2025,5,Monday,False
+2025-05-15,HOME_GAME,,Sports,BASEBALL,#5 OREGON,"Iowa City, Iowa",L 0-10,2025,5,Thursday,False
+2025-05-15,COMMENCEMENT_START,Commencement ceremonies Start,Academic,,,,,2025,5,Thursday,False
+2025-05-16,FINALS_END,Final Examination Week End,Academic,,,,,2025,5,Friday,False
+2025-05-16,HOME_GAME,,Sports,BASEBALL,#5 OREGON,"Iowa City, Iowa",L 6-9,2025,5,Friday,False
+2025-05-17,HOME_GAME,,Sports,BASEBALL,#5 OREGON,"Iowa City, Iowa",L 4-13,2025,5,Saturday,True
+2025-05-18,COMMENCEMENT_END,Commencement ceremonies End,Academic,,,,,2025,5,Sunday,True
+2025-05-19,CLASS_START,Opening of Classes,Academic,,,,,2025,5,Monday,False
+2025-05-26,HOLIDAY,"Memorial Day - University Holiday--No Classes, Offices Closed",Academic,,,,,2025,5,Monday,False
+2025-07-04,HOLIDAY,Independence Day - Federal Holiday - No Classes,Academic,,,,,2025,7,Friday,False
+2025-08-08,CLASS_END,Close of Classes,Academic,,,,,2025,8,Friday,False
+2025-08-25,CLASS_START,Opening of Classes,Academic,,,,,2025,8,Monday,False
+2025-09-01,HOLIDAY,Labor Day - University Holiday--No Classes; Offices Closed,Academic,,,,,2025,9,Monday,False
+2025-11-23,BREAK_START,Fall Break Start,Academic,,,,,2025,11,Sunday,True
+2025-11-27,HOLIDAY,"University Holidays, Offices Closed",Academic,,,,,2025,11,Thursday,False
+2025-11-28,HOLIDAY,"University Holidays, Offices Closed",Academic,,,,,2025,11,Friday,False
+2025-11-30,BREAK_END,Fall Break End,Academic,,,,,2025,11,Sunday,True
+2025-12-01,CLASS_RESUME,Classes resume,Academic,,,,,2025,12,Monday,False
+2025-12-12,CLASS_END,Close of Classes,Academic,,,,,2025,12,Friday,False
+2025-12-15,FINALS_START,Final Examination Week Start,Academic,,,,,2025,12,Monday,False
+2025-12-18,COMMENCEMENT_START,Commencement ceremonies Start,Academic,,,,,2025,12,Thursday,False
+2025-12-19,FINALS_END,Final Examination Week End,Academic,,,,,2025,12,Friday,False
+2025-12-21,COMMENCEMENT_END,Commencement ceremonies End,Academic,,,,,2025,12,Sunday,True
+2025-12-22,CLASS_START,Opening of Classes,Academic,,,,,2025,12,Monday,False
+2025-12-25,HOLIDAY,"University Holiday, Offices Closed",Academic,,,,,2025,12,Thursday,False
+2025-12-25,HOLIDAY,Federal Holiday - No Classes,Academic,,,,,2025,12,Thursday,False
+2025-12-26,HOLIDAY,"University Holiday, Offices Closed",Academic,,,,,2025,12,Friday,False
+2026-01-01,HOLIDAY,Federal Holiday - No Classes,Academic,,,,,2026,1,Thursday,False
+2026-01-01,HOLIDAY,University Holiday--No Classes; Offices Closed,Academic,,,,,2026,1,Thursday,False
+2026-01-16,CLASS_END,Close of Classes,Academic,,,,,2026,1,Friday,False
