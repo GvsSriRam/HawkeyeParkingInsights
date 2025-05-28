@@ -174,3 +174,6 @@ cython_debug/
 .pypirc
 README.md
 iowa/
+processed_data/
+data/Data Practice
+*.DS_Store
