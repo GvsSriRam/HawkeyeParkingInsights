@@ -1,0 +1,61 @@
+
+IOWA PARKING ANALYTICS - EXECUTIVE SUMMARY REPORT
+======================================================================
+Generated: 2025-05-26 14:40:32
+Analysis Period: Jan 2021 - Jul 2021
+
+OVERVIEW
+======================================================================
+The University of Iowa Parking and Transportation Department manages a 
+comprehensive parking system serving students, faculty, and staff across 
+29 active parking lots with 14,514 registered access cards.
+
+KEY FINDINGS
+======================================================================
+📊 System Usage:
+   • Total transactions analyzed: 4,100,684
+   • Peak daily usage: 5,004 transactions
+   • Average daily usage: 2,600 transactions
+   • Busiest lot: Lot 10 (555,897 transactions)
+
+⏰ Temporal Patterns:
+   • Peak usage hour: 7:00
+   • Busiest day of week: Wednesday
+   • Peak season: Spring
+   • Academic impact: Medium periods show highest usage
+
+🏈 Event Impact:
+   • High-impact events identified: 53
+   • Average event multiplier: 1.69x baseline
+   • Maximum event impact: 1.94x baseline
+
+PRIORITY RECOMMENDATIONS
+======================================================================
+
+1. 🔴 Peak Hour Management (HIGH Priority)
+   Implement dynamic pricing or incentives to shift usage away from 7:00
+
+2. 🔴 Event Day Planning (HIGH Priority)
+   Develop event-specific parking management protocols and overflow strategies
+
+3. 🟡 Capacity Optimization (MEDIUM Priority)
+   Consider reallocating access groups or improving signage/accessibility for underused lots
+
+
+NEXT STEPS
+======================================================================
+1. 🔮 Implement peak usage forecasting for 2025 planning
+2. 🏈 Develop event-specific parking management protocols  
+3. 📊 Establish monthly monitoring dashboard
+4. 🌧️ Create weather-responsive parking policies
+5. 💳 Optimize access group assignments based on usage patterns
+
+TECHNICAL NOTES
+======================================================================
+• Data sources: Parking transactions, academic calendar, weather data
+• Analysis methods: Statistical analysis, temporal pattern recognition
+• Quality: 4,100,684 transactions processed with comprehensive validation
+• Confidence: High - based on 4+ years of historical data
+
+Report prepared by Iowa Parking Analytics System
+For questions or additional analysis: Contact Parking & Transportation Dept.

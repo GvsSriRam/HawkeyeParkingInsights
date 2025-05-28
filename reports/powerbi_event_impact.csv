@@ -1,0 +1,415 @@
+Date,Event_Category,Event_Type,Sport,Opponent,Description,Weekday,Parking_Transactions,Is_Weekend,impact_level
+2020-11-25,Sports,HOME_GAME,BASKETBALL,NORTH CAROLINA CENTRAL,,Wednesday,0,False,
+2020-11-27,Sports,HOME_GAME,BASKETBALL,SOUTHERN,,Friday,0,False,
+2020-12-03,Sports,HOME_GAME,BASKETBALL,WESTERN ILLINOIS,,Thursday,0,False,
+2020-12-08,Sports,HOME_GAME,BASKETBALL,#16 NORTH CAROLINA,,Tuesday,0,False,
+2020-12-11,Sports,HOME_GAME,BASKETBALL,IOWA STATE,,Friday,0,False,
+2020-12-13,Sports,HOME_GAME,BASKETBALL,NORTHERN ILLINOIS,,Sunday,0,True,
+2020-12-22,Sports,HOME_GAME,BASKETBALL,PURDUE,,Tuesday,0,False,
+2020-12-29,Sports,HOME_GAME,BASKETBALL,#19 NORTHWESTERN,,Tuesday,0,False,
+2021-01-10,Sports,HOME_GAME,BASKETBALL,#16 MINNESOTA,,Sunday,894,True,Low
+2021-01-15,Sports,HOME_MATCH,WRESTLING,#6 NEBRASKA,,Friday,1951,False,Low
+2021-01-21,Sports,HOME_GAME,BASKETBALL,INDIANA,,Thursday,2056,False,Low
+2021-01-31,Sports,HOME_MATCH,WRESTLING,ILLINOIS,,Sunday,877,True,Low
+2021-02-02,Sports,HOME_GAME,BASKETBALL,MICHIGAN STATE,,Tuesday,2139,False,Normal
+2021-02-04,Sports,HOME_GAME,BASKETBALL,#7 OHIO STATE,,Thursday,1687,False,Low
+2021-02-10,Sports,HOME_GAME,BASKETBALL,#25 RUTGERS,,Wednesday,2057,False,Low
+2021-02-21,Sports,HOME_GAME,BASKETBALL,PENN STATE,,Sunday,939,True,Low
+2021-03-04,Sports,HOME_GAME,BASKETBALL,NEBRASKA,,Thursday,2030,False,Low
+2021-03-07,Sports,HOME_GAME,BASKETBALL,#25 WISCONSIN,,Sunday,916,True,Low
+2021-03-19,Sports,HOME_GAME,BASEBALL,NEBRASKA,,Friday,1769,False,Low
+2021-03-20,Sports,HOME_GAME,BASEBALL,NEBRASKA,,Saturday,911,True,Low
+2021-03-21,Sports,HOME_GAME,BASEBALL,NEBRASKA,,Sunday,969,True,Low
+2021-04-09,Sports,HOME_GAME,BASEBALL,MINNESOTA,,Friday,1980,False,Low
+2021-04-10,Sports,HOME_GAME,BASEBALL,MINNESOTA,,Saturday,1034,True,Low
+2021-04-11,Sports,HOME_GAME,BASEBALL,MINNESOTA,,Sunday,968,True,Low
+2021-04-11,Sports,HOME_GAME,BASEBALL,MINNESOTA,,Sunday,968,True,Low
+2021-04-23,Sports,HOME_GAME,BASEBALL,MARYLAND,,Friday,1940,False,Low
+2021-04-24,Sports,HOME_GAME,BASEBALL,MARYLAND,,Saturday,1015,True,Low
+2021-04-25,Sports,HOME_GAME,BASEBALL,NORTHWESTERN,,Sunday,961,True,Low
+2021-04-26,Sports,HOME_GAME,BASEBALL,NORTHWESTERN,,Monday,2011,False,Low
+2021-05-07,Sports,HOME_GAME,BASEBALL,PENN STATE,,Friday,1982,False,Low
+2021-05-08,Sports,HOME_GAME,BASEBALL,PENN STATE,,Saturday,943,True,Low
+2021-05-08,Sports,HOME_GAME,BASEBALL,PENN STATE,,Saturday,943,True,Low
+2021-05-14,Sports,HOME_GAME,BASEBALL,ILLINOIS,,Friday,1895,False,Low
+2021-05-15,Sports,HOME_GAME,BASEBALL,ILLINOIS,,Saturday,976,True,Low
+2021-05-16,Sports,HOME_GAME,BASEBALL,ILLINOIS,,Sunday,900,True,Low
+2021-08-23,Academic,CLASS_START,,,Opening of Classes,Monday,2469,False,Normal
+2021-09-04,Sports,HOME_GAME,FOOTBALL,#17 INDIANA,,Saturday,1087,True,Low
+2021-09-06,Academic,HOLIDAY,,,Labor Day - University Holiday--No Classes; Offices Closed,Monday,41,False,Low
+2021-09-18,Sports,HOME_GAME,FOOTBALL,KENT STATE,,Saturday,1096,True,Low
+2021-09-25,Sports,HOME_GAME,FOOTBALL,COLORADO STATE,,Saturday,1077,True,Low
+2021-10-09,Sports,HOME_GAME,FOOTBALL,#4 PENN STATE,,Saturday,1142,True,Low
+2021-10-16,Sports,HOME_GAME,FOOTBALL,PURDUE,,Saturday,1138,True,Low
+2021-10-31,Sports,HOME_GAME,FOOTBALL,NORTHWESTERN,,Sunday,1075,True,Low
+2021-11-05,Sports,HOME_GAME,BASKETBALL,SLIPPERY ROCK,,Friday,2485,False,Normal
+2021-11-07,Sports,HOME_GAME,FOOTBALL,MICHIGAN STATE,,Sunday,1171,True,Low
+2021-11-09,Sports,HOME_GAME,BASKETBALL,LONGWOOD,,Tuesday,2593,False,Normal
+2021-11-12,Sports,HOME_GAME,BASKETBALL,KANSAS CITY,,Friday,2567,False,Normal
+2021-11-13,Sports,HOME_GAME,FOOTBALL,MINNESOTA,,Saturday,1220,True,Low
+2021-11-16,Sports,HOME_GAME,BASKETBALL,NORTH CAROLINA CENTRAL,,Tuesday,2624,False,Normal
+2021-11-18,Sports,HOME_GAME,BASKETBALL,ALABAMA STATE,,Thursday,2737,False,Normal
+2021-11-19,Sports,HOME_MATCH,WRESTLING,PRINCETON,,Friday,2449,False,Normal
+2021-11-20,Sports,HOME_GAME,FOOTBALL,ILLINOIS,,Saturday,1104,True,Low
+2021-11-21,Academic,BREAK_START,,,Fall Break Start,Sunday,1033,True,Low
+2021-11-22,Sports,HOME_GAME,BASKETBALL,WESTERN MICHIGAN,,Monday,2290,False,Normal
+2021-11-25,Academic,HOLIDAY,,,"University Holidays, Offices Closed",Thursday,2,False,Low
+2021-11-26,Sports,HOME_GAME,BASKETBALL,PORTLAND STATE,,Friday,1,False,Low
+2021-11-26,Academic,HOLIDAY,,,"University Holidays, Offices Closed",Friday,1,False,Low
+2021-11-27,Sports,HOME_GAME,FOOTBALL,NEBRASKA,,Saturday,730,True,Low
+2021-11-28,Academic,BREAK_END,,,Fall Break End,Sunday,1099,True,Low
+2021-11-28,Sports,HOME_MATCH,WRESTLING,ARMY,,Sunday,1099,True,Low
+2021-11-29,Academic,CLASS_RESUME,,,Classes resume,Monday,2568,False,Normal
+2021-12-06,Sports,HOME_GAME,BASKETBALL,ILLINOIS,,Monday,2701,False,Normal
+2021-12-10,Academic,CLASS_END,,,Close of Classes,Friday,2594,False,Normal
+2021-12-12,Sports,HOME_GAME,FOOTBALL,WISCONSIN,,Sunday,1127,True,Low
+2021-12-13,Academic,FINALS_START,,,Final Examination Week Start,Monday,2582,False,Normal
+2021-12-16,Academic,COMMENCEMENT_START,,,Commencement ceremonies Start,Thursday,2590,False,Normal
+2021-12-17,Academic,FINALS_END,,,Final Examination Week End,Friday,2488,False,Normal
+2021-12-19,Academic,COMMENCEMENT_END,,,Commencement ceremonies End,Sunday,1054,True,Low
+2021-12-20,Academic,CLASS_START,,,Opening of Classes,Monday,2268,False,Normal
+2021-12-21,Sports,HOME_GAME,BASKETBALL,SOUTHEASTERN LOUISIANA,,Tuesday,2259,False,Normal
+2021-12-23,Academic,HOLIDAY,,,"University Holiday, Offices Closed",Thursday,1,False,Low
+2021-12-24,Academic,HOLIDAY,,,"University Holiday, Offices Closed",Friday,0,False,
+2021-12-25,Academic,HOLIDAY,,,Federal Holiday - No Classes,Saturday,0,True,
+2021-12-29,Sports,HOME_GAME,BASKETBALL,WESTERN ILLINOIS,,Wednesday,1901,False,Low
+2021-12-31,Academic,HOLIDAY,,,University Holiday--No Classes; Offices Closed,Friday,4,False,Low
+2022-01-01,Academic,HOLIDAY,,,Federal Holiday - No Classes,Saturday,1,True,Low
+2022-01-03,Sports,HOME_GAME,BASKETBALL,MARYLAND,,Monday,2110,False,Normal
+2022-01-07,Sports,HOME_MATCH,WRESTLING,MINNESOTA,,Friday,2124,False,Normal
+2022-01-09,Sports,HOME_MATCH,WRESTLING,PURDUE,,Sunday,1122,True,Low
+2022-01-13,Sports,HOME_GAME,BASKETBALL,INDIANA,,Thursday,2492,False,Normal
+2022-01-14,Academic,CLASS_END,,,Close of Classes,Friday,2140,False,Normal
+2022-01-17,Academic,HOLIDAY,,,"Martin Luther King, Jr. Convocation--All Classes Suspended; Offices Closed",Monday,2,False,Low
+2022-01-18,Academic,CLASS_START,,,Opening of Classes,Tuesday,2309,False,Normal
+2022-01-22,Sports,HOME_GAME,BASKETBALL,PENN STATE,,Saturday,1225,True,Low
+2022-01-27,Sports,HOME_GAME,BASKETBALL,#6 PURDUE,,Thursday,2626,False,Normal
+2022-01-28,Sports,HOME_MATCH,WRESTLING,PENN STATE,,Friday,2545,False,Normal
+2022-02-05,Sports,HOME_MATCH,WRESTLING,WISCONSIN,,Saturday,1257,True,Low
+2022-02-06,Sports,HOME_GAME,BASKETBALL,MINNESOTA,,Sunday,1224,True,Low
+2022-02-13,Sports,HOME_GAME,BASKETBALL,NEBRASKA,,Sunday,1247,True,Low
+2022-02-17,Sports,HOME_GAME,BASKETBALL,MICHIGAN,,Thursday,2758,False,Normal
+2022-02-22,Sports,HOME_GAME,BASKETBALL,MICHIGAN STATE,,Tuesday,2607,False,Normal
+2022-02-28,Sports,HOME_GAME,BASKETBALL,NORTHWESTERN,,Monday,2658,False,Normal
+2022-03-01,Sports,HOME_GAME,BASEBALL,LORAS COLLEGE,,Tuesday,2729,False,Normal
+2022-03-02,Sports,HOME_GAME,BASEBALL,CORNELL COLLEGE,,Wednesday,2752,False,Normal
+2022-03-13,Academic,BREAK_START,,,Spring Break Start,Sunday,1009,True,Low
+2022-03-19,Sports,HOME_GAME,BASEBALL,#12/17 TEXAS TECH,,Saturday,1088,True,Low
+2022-03-20,Academic,BREAK_END,,,Spring Break End,Sunday,1066,True,Low
+2022-03-20,Sports,HOME_GAME,BASEBALL,#12/17 TEXAS TECH,,Sunday,1066,True,Low
+2022-03-21,Sports,HOME_GAME,BASEBALL,ST. THOMAS,,Monday,2544,False,Normal
+2022-03-21,Academic,CLASS_RESUME,,,Classes resume,Monday,2544,False,Normal
+2022-03-25,Sports,HOME_GAME,BASEBALL,CENTRAL MICHIGAN,,Friday,2597,False,Normal
+2022-03-26,Sports,HOME_GAME,BASEBALL,CENTRAL MICHIGAN,,Saturday,1237,True,Low
+2022-03-27,Sports,HOME_GAME,BASEBALL,CENTRAL MICHIGAN,,Sunday,1206,True,Low
+2022-04-09,Sports,HOME_GAME,BASEBALL,ILLINOIS,,Saturday,1213,True,Low
+2022-04-09,Sports,HOME_GAME,BASEBALL,ILLINOIS,,Saturday,1213,True,Low
+2022-04-10,Sports,HOME_GAME,BASEBALL,ILLINOIS,,Sunday,1210,True,Low
+2022-04-15,Sports,HOME_GAME,BASEBALL,MINNESOTA,,Friday,2513,False,Normal
+2022-04-16,Sports,HOME_GAME,BASEBALL,MINNESOTA,,Saturday,1238,True,Low
+2022-04-17,Sports,HOME_GAME,BASEBALL,MINNESOTA,,Sunday,1078,True,Low
+2022-04-19,Sports,HOME_GAME,BASEBALL,BRADLEY,,Tuesday,2749,False,Normal
+2022-04-26,Sports,HOME_GAME,BASEBALL,WESTERN ILLINOIS,,Tuesday,2726,False,Normal
+2022-05-03,Sports,HOME_GAME,BASEBALL,ILLINOIS STATE,,Tuesday,2739,False,Normal
+2022-05-06,Academic,CLASS_END,,,Close of Classes,Friday,2505,False,Normal
+2022-05-06,Sports,HOME_GAME,BASEBALL,PURDUE,,Friday,2505,False,Normal
+2022-05-07,Sports,HOME_GAME,BASEBALL,PURDUE,,Saturday,1140,True,Low
+2022-05-08,Sports,HOME_GAME,BASEBALL,PURDUE,,Sunday,1045,True,Low
+2022-05-09,Academic,FINALS_START,,,Final Examination Week Start,Monday,2649,False,Normal
+2022-05-12,Academic,COMMENCEMENT_START,,,Commencement ceremonies Start,Thursday,2512,False,Normal
+2022-05-13,Academic,FINALS_END,,,Final Examination Week End,Friday,2383,False,Normal
+2022-05-15,Academic,COMMENCEMENT_END,,,Commencement ceremonies End,Sunday,1051,True,Low
+2022-05-16,Academic,CLASS_START,,,Opening of Classes,Monday,2350,False,Normal
+2022-05-19,Sports,HOME_GAME,BASEBALL,INDIANA,,Thursday,2363,False,Normal
+2022-05-20,Sports,HOME_GAME,BASEBALL,INDIANA,,Friday,2210,False,Normal
+2022-05-21,Sports,HOME_GAME,BASEBALL,INDIANA,,Saturday,1051,True,Low
+2022-05-30,Academic,HOLIDAY,,,"Memorial Day - University Holiday--No Classes, Offices Closed",Monday,448,False,Low
+2022-07-04,Academic,HOLIDAY,,,"Independence Day - University Holiday--No Classes, Offices Closed",Monday,7,False,Low
+2022-08-05,Academic,CLASS_END,,,Close of Classes,Friday,2350,False,Normal
+2022-08-22,Academic,CLASS_START,,,Opening of Classes,Monday,2953,False,Normal
+2022-09-03,Sports,HOME_GAME,FOOTBALL,SOUTH DAKOTA STATE,,Saturday,1261,True,Low
+2022-09-05,Academic,HOLIDAY,,,Labor Day - University Holiday--No Classes; Offices Closed,Monday,28,False,Low
+2022-09-10,Sports,HOME_GAME,FOOTBALL,IOWA STATE,,Saturday,1285,True,Low
+2022-09-17,Sports,HOME_GAME,FOOTBALL,NEVADA,,Saturday,1363,True,Low
+2022-10-01,Sports,HOME_GAME,FOOTBALL,#4 MICHIGAN,,Saturday,1369,True,Low
+2022-10-29,Sports,HOME_GAME,FOOTBALL,NORTHWESTERN,,Saturday,1475,True,Low
+2022-10-31,Sports,HOME_GAME,BASKETBALL,TRUMAN STATE,,Monday,3131,False,High
+2022-11-07,Sports,HOME_GAME,BASKETBALL,BETHUNE-COOKMAN,,Monday,3211,False,High
+2022-11-11,Sports,HOME_GAME,BASKETBALL,NORTH CAROLINA A&T,,Friday,3096,False,Normal
+2022-11-12,Sports,HOME_GAME,FOOTBALL,WISCONSIN,,Saturday,1429,True,Low
+2022-11-13,Sports,HOME_MATCH,WRESTLING,CALIFORNIA BAPTIST,,Sunday,1489,True,Low
+2022-11-20,Academic,BREAK_START,,,Fall Break Start,Sunday,1289,True,Low
+2022-11-21,Sports,HOME_GAME,BASKETBALL,OMAHA,,Monday,2831,False,Normal
+2022-11-24,Academic,HOLIDAY,,,"University Holidays, Offices Closed",Thursday,3,False,Low
+2022-11-25,Academic,HOLIDAY,,,"University Holidays, Offices Closed",Friday,463,False,Low
+2022-11-25,Sports,HOME_GAME,FOOTBALL,NEBRASKA,,Friday,463,False,Low
+2022-11-26,Sports,HOME_MATCH,WRESTLING,#21 PENN,,Saturday,839,True,Low
+2022-11-27,Academic,BREAK_END,,,Fall Break End,Sunday,1269,True,Low
+2022-11-28,Academic,CLASS_RESUME,,,Classes resume,Monday,3209,False,High
+2022-11-29,Sports,HOME_GAME,BASKETBALL,GEORGIA TECH,,Tuesday,3468,False,High
+2022-12-04,Sports,HOME_MATCH,WRESTLING,#7 IOWA STATE,,Sunday,1461,True,Low
+2022-12-08,Sports,HOME_GAME,BASKETBALL,#20 IOWA STATE,,Thursday,3430,False,High
+2022-12-09,Academic,CLASS_END,,,Close of Classes,Friday,3110,False,High
+2022-12-11,Sports,HOME_GAME,BASKETBALL,WISCONSIN,,Sunday,1530,True,Low
+2022-12-12,Academic,FINALS_START,,,Final Examination Week Start,Monday,3163,False,High
+2022-12-15,Academic,COMMENCEMENT_START,,,Commencement ceremonies Start,Thursday,3224,False,High
+2022-12-16,Academic,FINALS_END,,,Final Examination Week End,Friday,2959,False,Normal
+2022-12-17,Sports,HOME_GAME,BASKETBALL,SOUTHEAST MISSOURI STATE,,Saturday,1259,True,Low
+2022-12-18,Academic,COMMENCEMENT_END,,,Commencement ceremonies End,Sunday,1221,True,Low
+2022-12-19,Academic,CLASS_START,,,Opening of Classes,Monday,2927,False,Normal
+2022-12-21,Sports,HOME_GAME,BASKETBALL,EASTERN ILLINOIS,,Wednesday,2984,False,Normal
+2022-12-25,Academic,HOLIDAY,,,Federal Holiday - No Classes,Sunday,148,True,Low
+2022-12-26,Academic,HOLIDAY,,,"University Holiday, Offices Closed",Monday,105,False,Low
+2022-12-27,Academic,HOLIDAY,,,"University Holiday, Offices Closed",Tuesday,10,False,Low
+2023-01-01,Academic,HOLIDAY,,,Federal Holiday - No Classes,Sunday,1,True,Low
+2023-01-02,Academic,HOLIDAY,,,University Holiday--No Classes; Offices Closed,Monday,5,False,Low
+2023-01-05,Sports,HOME_GAME,BASKETBALL,#15 INDIANA,,Thursday,2894,False,Normal
+2023-01-06,Sports,HOME_MATCH,WRESTLING,ILLINOIS,,Friday,2671,False,Normal
+2023-01-12,Sports,HOME_GAME,BASKETBALL,MICHIGAN,,Thursday,3149,False,High
+2023-01-13,Academic,CLASS_END,,,Close of Classes,Friday,3017,False,Normal
+2023-01-13,Sports,HOME_MATCH,WRESTLING,#11 NORTHWESTERN,,Friday,3017,False,Normal
+2023-01-15,Sports,HOME_GAME,BASKETBALL,MARYLAND,,Sunday,1047,True,Low
+2023-01-16,Academic,HOLIDAY,,,"Martin Luther King, Jr. Convocation--All Classes Suspended; Offices Closed",Monday,6,False,Low
+2023-01-17,Academic,CLASS_START,,,Opening of Classes,Tuesday,3385,False,High
+2023-01-20,Sports,HOME_MATCH,WRESTLING,#11 NEBRASKA,,Friday,3182,False,High
+2023-01-29,Sports,HOME_GAME,BASKETBALL,RUTGERS,,Sunday,1514,True,Low
+2023-01-31,Sports,HOME_GAME,BASKETBALL,NORTHWESTERN,,Tuesday,3570,False,High
+2023-02-04,Sports,HOME_GAME,BASKETBALL,ILLINOIS,,Saturday,1644,True,Low
+2023-02-10,Sports,HOME_MATCH,WRESTLING,#9 MICHIGAN,,Friday,3230,False,High
+2023-02-16,Sports,HOME_GAME,BASKETBALL,OHIO STATE,,Thursday,2091,False,Normal
+2023-02-19,Sports,HOME_MATCH,WRESTLING,#6 OKLAHOMA STATE,,Sunday,1519,True,Low
+2023-02-25,Sports,HOME_GAME,BASKETBALL,MICHIGAN STATE,,Saturday,1545,True,Low
+2023-02-28,Sports,HOME_GAME,BASEBALL,LORAS,,Tuesday,3453,False,High
+2023-03-05,Sports,HOME_GAME,BASKETBALL,NEBRASKA,,Sunday,1623,True,Low
+2023-03-07,Sports,HOME_GAME,BASEBALL,COE,,Tuesday,3542,False,High
+2023-03-12,Academic,BREAK_START,,,Spring Break Start,Sunday,1314,True,Low
+2023-03-15,Sports,HOME_GAME,BASEBALL,ST. THOMAS,,Wednesday,2570,False,Normal
+2023-03-19,Sports,HOME_GAME,BASEBALL,SOUTH DAKOTA STATE,,Sunday,1453,True,Low
+2023-03-19,Sports,HOME_GAME,BASEBALL,SOUTH DAKOTA STATE,,Sunday,1453,True,Low
+2023-03-19,Academic,BREAK_END,,,Spring Break End,Sunday,1453,True,Low
+2023-03-20,Academic,CLASS_RESUME,,,Classes resume,Monday,3319,False,High
+2023-03-22,Sports,HOME_GAME,BASEBALL,GRAND VIEW,,Wednesday,3575,False,High
+2023-03-24,Sports,HOME_GAME,BASEBALL,WESTERN MICHIGAN,,Friday,3143,False,High
+2023-03-25,Sports,HOME_GAME,BASEBALL,WESTERN MICHIGAN,,Saturday,1555,True,Low
+2023-03-25,Sports,HOME_GAME,BASEBALL,WESTERN MICHIGAN,,Saturday,1555,True,Low
+2023-03-31,Sports,HOME_GAME,BASEBALL,MARYLAND,,Friday,2918,False,Normal
+2023-04-01,Sports,HOME_GAME,BASEBALL,MARYLAND,,Saturday,1558,True,Low
+2023-04-02,Sports,HOME_GAME,BASEBALL,MARYLAND,,Sunday,1462,True,Low
+2023-04-12,Sports,HOME_GAME,BASEBALL,UNIVERSITY OF WISCONSIN-MILWAUKEE,,Wednesday,3495,False,High
+2023-04-19,Sports,HOME_GAME,BASEBALL,BRADLEY,,Wednesday,3653,False,High
+2023-04-21,Sports,HOME_GAME,BASEBALL,NEBRASKA,,Friday,3059,False,Normal
+2023-04-22,Sports,HOME_GAME,BASEBALL,NEBRASKA,,Saturday,1527,True,Low
+2023-04-23,Sports,HOME_GAME,BASEBALL,NEBRASKA,,Sunday,1471,True,Low
+2023-04-25,Sports,HOME_GAME,BASEBALL,UPPER IOWA,,Tuesday,3587,False,High
+2023-05-02,Sports,HOME_GAME,BASEBALL,ILLINOIS STATE,,Tuesday,3554,False,High
+2023-05-05,Sports,HOME_GAME,BASEBALL,OHIO STATE,,Friday,3100,False,Normal
+2023-05-05,Academic,CLASS_END,,,Close of Classes,Friday,3100,False,Normal
+2023-05-06,Sports,HOME_GAME,BASEBALL,OHIO STATE,,Saturday,1491,True,Low
+2023-05-07,Sports,HOME_GAME,BASEBALL,OHIO STATE,,Sunday,1401,True,Low
+2023-05-08,Academic,FINALS_START,,,Final Examination Week Start,Monday,3255,False,High
+2023-05-11,Academic,COMMENCEMENT_START,,,Commencement ceremonies Start,Thursday,3269,False,High
+2023-05-12,Sports,HOME_GAME,BASEBALL,MICHIGAN STATE,,Friday,2984,False,Normal
+2023-05-12,Academic,FINALS_END,,,Final Examination Week End,Friday,2984,False,Normal
+2023-05-13,Sports,HOME_GAME,BASEBALL,MICHIGAN STATE,,Saturday,1318,True,Low
+2023-05-14,Academic,COMMENCEMENT_END,,,Commencement ceremonies End,Sunday,1235,True,Low
+2023-05-14,Sports,HOME_GAME,BASEBALL,MICHIGAN STATE,,Sunday,1235,True,Low
+2023-05-15,Academic,CLASS_START,,,Opening of Classes,Monday,3092,False,Normal
+2023-05-29,Academic,HOLIDAY,,,"Memorial Day - University Holiday--No Classes, Offices Closed",Monday,3,False,Low
+2023-07-04,Academic,HOLIDAY,,,"Independence Day - University Holiday--No Classes, Offices Closed",Tuesday,188,False,Low
+2023-08-04,Academic,CLASS_END,,,Close of Classes,Friday,2968,False,Normal
+2023-08-21,Academic,CLASS_START,,,Opening of Classes,Monday,3607,False,High
+2023-09-02,Sports,HOME_GAME,FOOTBALL,UTAH STATE,,Saturday,1490,True,Low
+2023-09-04,Academic,HOLIDAY,,,Labor Day - University Holiday--No Classes; Offices Closed,Monday,30,False,Low
+2023-09-16,Sports,HOME_GAME,FOOTBALL,WESTERN MICHIGAN,,Saturday,1700,True,Low
+2023-09-30,Sports,HOME_GAME,FOOTBALL,MICHIGAN STATE,,Saturday,1772,True,Low
+2023-10-07,Sports,HOME_GAME,FOOTBALL,PURDUE,,Saturday,1695,True,Low
+2023-10-21,Sports,HOME_GAME,FOOTBALL,MINNESOTA,,Saturday,1745,True,Low
+2023-10-30,Sports,HOME_GAME,BASKETBALL,QUINCY,,Monday,4166,False,High
+2023-11-07,Sports,HOME_GAME,BASKETBALL,NORTH DAKOTA,,Tuesday,4200,False,High
+2023-11-10,Sports,HOME_GAME,BASKETBALL,ALABAMA STATE,,Friday,3761,False,High
+2023-11-11,Sports,HOME_GAME,FOOTBALL,RUTGERS,,Saturday,1763,True,Low
+2023-11-17,Sports,HOME_GAME,BASKETBALL,ARKANSAS STATE,,Friday,3645,False,High
+2023-11-18,Sports,HOME_GAME,FOOTBALL,ILLINOIS,,Saturday,1724,True,Low
+2023-11-19,Sports,HOME_MATCH,WRESTLING,#16 OREGON STATE,,Sunday,1673,True,Low
+2023-11-19,Academic,BREAK_START,,,Fall Break Start,Sunday,1673,True,Low
+2023-11-23,Academic,HOLIDAY,,,"University Holidays, Offices Closed",Thursday,117,False,Low
+2023-11-24,Academic,HOLIDAY,,,"University Holidays, Offices Closed",Friday,109,False,Low
+2023-11-26,Academic,BREAK_END,,,Fall Break End,Sunday,1670,True,Low
+2023-11-27,Academic,CLASS_RESUME,,,Classes resume,Monday,3958,False,High
+2023-11-29,Sports,HOME_GAME,BASKETBALL,NORTH FLORIDA,,Wednesday,4313,False,High
+2023-12-08,Academic,CLASS_END,,,Close of Classes,Friday,3859,False,High
+2023-12-08,Sports,HOME_MATCH,WRESTLING,COLUMBIA,,Friday,3859,False,High
+2023-12-10,Sports,HOME_GAME,BASKETBALL,MICHIGAN,,Sunday,1919,True,Low
+2023-12-11,Academic,FINALS_START,,,Final Examination Week Start,Monday,4037,False,High
+2023-12-14,Academic,COMMENCEMENT_START,,,Commencement ceremonies Start,Thursday,4050,False,High
+2023-12-15,Academic,FINALS_END,,,Final Examination Week End,Friday,3665,False,High
+2023-12-17,Academic,COMMENCEMENT_END,,,Commencement ceremonies End,Sunday,1589,True,Low
+2023-12-18,Academic,CLASS_START,,,Opening of Classes,Monday,3655,False,High
+2023-12-20,Sports,HOME_GAME,BASKETBALL,UMBC,,Wednesday,3649,False,High
+2023-12-25,Academic,HOLIDAY,,,"University Holiday, Offices Closed",Monday,35,False,Low
+2023-12-25,Academic,HOLIDAY,,,Federal Holiday - No Classes,Monday,35,False,Low
+2023-12-26,Academic,HOLIDAY,,,"University Holiday, Offices Closed",Tuesday,120,False,Low
+2023-12-29,Sports,HOME_GAME,BASKETBALL,NORTHERN ILLINOIS,,Friday,2495,False,Normal
+2024-01-01,Academic,HOLIDAY,,,Federal Holiday - No Classes,Monday,102,False,Low
+2024-01-01,Academic,HOLIDAY,,,University Holiday--No Classes; Offices Closed,Monday,102,False,Low
+2024-01-06,Sports,HOME_GAME,BASKETBALL,RUTGERS,,Saturday,1722,True,Low
+2024-01-12,Academic,CLASS_END,,,Close of Classes,Friday,1110,False,Low
+2024-01-12,Sports,HOME_GAME,BASKETBALL,NEBRASKA,,Friday,1110,False,Low
+2024-01-15,Sports,HOME_MATCH,WRESTLING,#10 MINNESOTA,,Monday,9,False,Low
+2024-01-15,Academic,HOLIDAY,,,"Martin Luther King, Jr. Convocation--All Classes Suspended; Offices Closed",Monday,9,False,Low
+2024-01-16,Academic,CLASS_START,,,Opening of Classes,Tuesday,3263,False,High
+2024-01-19,Sports,HOME_MATCH,WRESTLING,PURDUE,,Friday,3663,False,High
+2024-01-20,Sports,HOME_GAME,BASKETBALL,#2 PURDUE,,Saturday,1877,True,Low
+2024-01-24,Sports,HOME_GAME,BASKETBALL,MARYLAND,,Wednesday,4265,False,High
+2024-02-02,Sports,HOME_GAME,BASKETBALL,OHIO STATE,,Friday,3956,False,High
+2024-02-09,Sports,HOME_MATCH,WRESTLING,#1 PENN STATE,,Friday,3807,False,High
+2024-02-11,Sports,HOME_GAME,BASKETBALL,MINNESOTA,,Sunday,1805,True,Low
+2024-02-17,Sports,HOME_GAME,BASKETBALL,#20 WISCONSIN,,Saturday,2053,True,Low
+2024-02-18,Sports,HOME_MATCH,WRESTLING,WISCONSIN,,Sunday,2063,True,Low
+2024-02-20,Sports,HOME_GAME,BASEBALL,LORAS,,Tuesday,4455,False,High
+2024-02-27,Sports,HOME_GAME,BASKETBALL,PENN STATE,,Tuesday,4369,False,High
+2024-02-27,Sports,HOME_GAME,BASEBALL,NORTHERN ILLINOIS,,Tuesday,4369,False,High
+2024-03-05,Sports,HOME_GAME,BASEBALL,ST. THOMAS,,Tuesday,4376,False,High
+2024-03-10,Sports,HOME_GAME,BASKETBALL,#12 ILLINOIS,,Sunday,1566,True,Low
+2024-03-10,Academic,BREAK_START,,,Spring Break Start,Sunday,1566,True,Low
+2024-03-15,Sports,HOME_GAME,BASEBALL,WESTERN ILLINOIS,,Friday,2822,False,Normal
+2024-03-16,Sports,HOME_GAME,BASEBALL,WESTERN ILLINOIS,,Saturday,1596,True,Low
+2024-03-16,Sports,HOME_GAME,BASEBALL,WESTERN ILLINOIS,,Saturday,1596,True,Low
+2024-03-17,Academic,BREAK_END,,,Spring Break End,Sunday,1740,True,Low
+2024-03-18,Academic,CLASS_RESUME,,,Classes resume,Monday,4088,False,High
+2024-03-19,Sports,HOME_GAME,BASKETBALL,KANSAS STATE,,Tuesday,4401,False,High
+2024-03-19,Sports,HOME_GAME,BASEBALL,GRAND VIEW,,Tuesday,4401,False,High
+2024-03-29,Sports,HOME_GAME,BASEBALL,MINNESOTA,,Friday,3998,False,High
+2024-03-30,Sports,HOME_GAME,BASEBALL,MINNESOTA,,Saturday,1823,True,Low
+2024-03-31,Sports,HOME_GAME,BASEBALL,MINNESOTA,,Sunday,1717,True,Low
+2024-04-05,Sports,HOME_GAME,BASEBALL,MICHIGAN,,Friday,3899,False,High
+2024-04-06,Sports,HOME_GAME,BASEBALL,MICHIGAN,,Saturday,1998,True,Low
+2024-04-06,Sports,HOME_GAME,BASEBALL,MICHIGAN,,Saturday,1998,True,Low
+2024-04-10,Sports,HOME_GAME,BASEBALL,ST. THOMAS,,Wednesday,4734,False,High
+2024-04-17,Sports,HOME_GAME,BASEBALL,BRADLEY,,Wednesday,4410,False,High
+2024-04-19,Sports,HOME_GAME,BASEBALL,RUTGERS,,Friday,3844,False,High
+2024-04-20,Sports,HOME_GAME,BASEBALL,RUTGERS,,Saturday,2007,True,Low
+2024-04-21,Sports,HOME_GAME,BASEBALL,RUTGERS,,Sunday,1956,True,Low
+2024-04-23,Sports,HOME_GAME,BASEBALL,MILWAUKEE,,Tuesday,4408,False,High
+2024-04-30,Sports,HOME_GAME,BASEBALL,ILLINOIS STATE,,Tuesday,4391,False,High
+2024-05-01,Sports,HOME_GAME,BASEBALL,NORTH DAKOTA STATE,,Wednesday,4395,False,High
+2024-05-03,Academic,CLASS_END,,,Close of Classes,Friday,3815,False,High
+2024-05-03,Sports,HOME_GAME,BASEBALL,NORTHWESTERN,,Friday,3815,False,High
+2024-05-04,Sports,HOME_GAME,BASEBALL,NORTHWESTERN,,Saturday,1968,True,Low
+2024-05-05,Sports,HOME_GAME,BASEBALL,NORTHWESTERN,,Sunday,1979,True,Low
+2024-05-06,Academic,FINALS_START,,,Final Examination Week Start,Monday,4067,False,High
+2024-05-09,Academic,COMMENCEMENT_START,,,Commencement ceremonies Start,Thursday,3922,False,High
+2024-05-10,Academic,FINALS_END,,,Final Examination Week End,Friday,3559,False,High
+2024-05-12,Academic,COMMENCEMENT_END,,,Commencement ceremonies End,Sunday,1551,True,Low
+2024-05-13,Academic,CLASS_START,,,Opening of Classes,Monday,3692,False,High
+2024-05-27,Academic,HOLIDAY,,,"Memorial Day - University Holiday--No Classes, Offices Closed",Monday,175,False,Low
+2024-07-04,Academic,HOLIDAY,,,Independence Day - Federal Holiday - No Classes,Thursday,135,False,Low
+2024-08-02,Academic,CLASS_END,,,Close of Classes,Friday,2944,False,Normal
+2024-08-26,Academic,CLASS_START,,,Opening of Classes,Monday,4243,False,High
+2024-08-31,Sports,HOME_GAME,FOOTBALL,ILLINOIS STATE,,Saturday,2008,True,Low
+2024-09-02,Academic,HOLIDAY,,,Labor Day - University Holiday--No Classes; Offices Closed,Monday,178,False,Low
+2024-09-07,Sports,HOME_GAME,FOOTBALL,IOWA STATE,,Saturday,1944,True,Low
+2024-09-14,Sports,HOME_GAME,FOOTBALL,TROY,,Saturday,2121,True,Normal
+2024-10-12,Sports,HOME_GAME,FOOTBALL,WASHINGTON,,Saturday,2020,True,Low
+2024-10-25,Sports,HOME_GAME,BASKETBALL,MINNESOTA-DULUTH,,Friday,4366,False,High
+2024-10-26,Sports,HOME_GAME,FOOTBALL,NORTHWESTERN,,Saturday,2075,True,Normal
+2024-11-02,Sports,HOME_GAME,FOOTBALL,WISCONSIN,,Saturday,2193,True,Normal
+2024-11-04,Sports,HOME_GAME,BASKETBALL,TEXAS A&M COMMERCE,,Monday,4481,False,High
+2024-11-07,Sports,HOME_GAME,BASKETBALL,SOUTHERN,,Thursday,4408,False,High
+2024-11-09,Sports,HOME_MATCH,WRESTLING,#20 STANFORD,,Saturday,2341,True,Normal
+2024-11-12,Sports,HOME_GAME,BASKETBALL,SOUTH DAKOTA,,Tuesday,4636,False,High
+2024-11-19,Sports,HOME_GAME,BASKETBALL,RIDER,,Tuesday,4614,False,High
+2024-11-23,Sports,HOME_MATCH,WRESTLING,#12 IOWA STATE,,Saturday,2127,True,Normal
+2024-11-24,Academic,BREAK_START,,,Fall Break Start,Sunday,2006,True,Low
+2024-11-26,Sports,HOME_GAME,BASKETBALL,USC UPSTATE,,Tuesday,3393,False,High
+2024-11-28,Academic,HOLIDAY,,,"University Holidays, Offices Closed",Thursday,1,False,Low
+2024-11-29,Sports,HOME_GAME,FOOTBALL,NEBRASKA,,Friday,300,False,Low
+2024-11-29,Academic,HOLIDAY,,,"University Holidays, Offices Closed",Friday,300,False,Low
+2024-12-01,Academic,BREAK_END,,,Fall Break End,Sunday,2186,True,Normal
+2024-12-02,Academic,CLASS_RESUME,,,Classes resume,Monday,4441,False,High
+2024-12-03,Sports,HOME_GAME,BASKETBALL,NORTHWESTERN,,Tuesday,4591,False,High
+2024-12-12,Sports,HOME_GAME,BASKETBALL,#3 IOWA STATE,,Thursday,4515,False,High
+2024-12-13,Academic,CLASS_END,,,Close of Classes,Friday,4169,False,High
+2024-12-15,Sports,HOME_GAME,BASKETBALL,NEW ORLEANS,,Sunday,2474,True,Normal
+2024-12-16,Academic,FINALS_START,,,Final Examination Week Start,Monday,4241,False,High
+2024-12-19,Academic,COMMENCEMENT_START,,,Commencement ceremonies Start,Thursday,4197,False,High
+2024-12-20,Academic,FINALS_END,,,Final Examination Week End,Friday,3640,False,High
+2024-12-22,Academic,COMMENCEMENT_END,,,Commencement ceremonies End,Sunday,1812,True,Low
+2024-12-23,Academic,CLASS_START,,,Opening of Classes,Monday,2120,False,Normal
+2024-12-24,Academic,HOLIDAY,,,"University Holiday, Offices Closed",Tuesday,76,False,Low
+2024-12-25,Academic,HOLIDAY,,,Federal Holiday - No Classes,Wednesday,68,False,Low
+2024-12-25,Academic,HOLIDAY,,,"University Holiday, Offices Closed",Wednesday,68,False,Low
+2024-12-30,Sports,HOME_GAME,BASKETBALL,NEW HAMPSHIRE,,Monday,2645,False,Normal
+2025-01-01,Academic,HOLIDAY,,,Federal Holiday - No Classes,Wednesday,106,False,Low
+2025-01-01,Academic,HOLIDAY,,,University Holiday--No Classes; Offices Closed,Wednesday,106,False,Low
+2025-01-07,Sports,HOME_GAME,BASKETBALL,NEBRASKA,,Tuesday,3684,False,High
+2025-01-11,Sports,HOME_GAME,BASKETBALL,INDIANA,,Saturday,2103,True,Normal
+2025-01-17,Academic,CLASS_END,,,Close of Classes,Friday,3448,False,High
+2025-01-17,Sports,HOME_MATCH,WRESTLING,#9 ILLINOIS,,Friday,3448,False,High
+2025-01-20,Academic,HOLIDAY,,,"Martin Luther King, Jr. Convocation--All Classes Suspended; Offices Closed",Monday,96,False,Low
+2025-01-21,Academic,CLASS_START,,,Opening of Classes,Tuesday,3983,False,High
+2025-01-21,Sports,HOME_GAME,BASKETBALL,MINNESOTA,,Tuesday,3983,False,High
+2025-01-24,Sports,HOME_GAME,BASKETBALL,PENN STATE,,Friday,4029,False,High
+2025-01-25,Sports,HOME_MATCH,WRESTLING,#4 OHIO STATE,,Saturday,2606,True,Normal
+2025-02-04,Sports,HOME_GAME,BASKETBALL,#7 PURDUE,,Tuesday,4665,False,High
+2025-02-07,Sports,HOME_MATCH,WRESTLING,#7 NEBRASKA,,Friday,4104,False,High
+2025-02-08,Sports,HOME_GAME,BASKETBALL,#21 WISCONSIN,,Saturday,2669,True,Normal
+2025-02-16,Sports,HOME_MATCH,WRESTLING,NORTHWESTERN,,Sunday,2692,True,Normal
+2025-02-19,Sports,HOME_GAME,BASKETBALL,OREGON,,Wednesday,4413,False,High
+2025-02-22,Sports,HOME_GAME,BASKETBALL,WASHINGTON,,Saturday,2610,True,Normal
+2025-02-23,Sports,HOME_MATCH,WRESTLING,#2 OKLAHOMA STATE,,Sunday,2778,True,Normal
+2025-03-03,Sports,HOME_GAME,BASEBALL,LORAS,,Monday,4561,False,High
+2025-03-06,Sports,HOME_GAME,BASKETBALL,#8 MICHIGAN STATE,,Thursday,4660,False,High
+2025-03-11,Sports,HOME_GAME,BASEBALL,AUGUSTANA,,Tuesday,4616,False,High
+2025-03-14,Sports,HOME_GAME,BASEBALL,MICHIGAN STATE,,Friday,3560,False,High
+2025-03-14,Sports,HOME_GAME,BASEBALL,MICHIGAN STATE,,Friday,3560,False,High
+2025-03-15,Sports,HOME_GAME,BASEBALL,MICHIGAN STATE,,Saturday,2112,True,Normal
+2025-03-16,Academic,BREAK_START,,,Spring Break Start,Sunday,2026,True,Low
+2025-03-18,Sports,HOME_GAME,BASEBALL,UIC,,Tuesday,3151,False,High
+2025-03-21,Sports,HOME_GAME,BASEBALL,OHIO STATE,,Friday,2758,False,Normal
+2025-03-22,Sports,HOME_GAME,BASEBALL,OHIO STATE,,Saturday,2075,True,Normal
+2025-03-23,Academic,BREAK_END,,,Spring Break End,Sunday,2347,True,Normal
+2025-03-23,Sports,HOME_GAME,BASEBALL,OHIO STATE,,Sunday,2347,True,Normal
+2025-03-24,Academic,CLASS_RESUME,,,Classes resume,Monday,4534,False,High
+2025-04-08,Sports,HOME_GAME,BASEBALL,MILWAUKEE,,Tuesday,4957,False,High
+2025-04-11,Sports,HOME_GAME,BASEBALL,NEBRASKA,,Friday,4248,False,High
+2025-04-12,Sports,HOME_GAME,BASEBALL,NEBRASKA,,Saturday,2600,True,Normal
+2025-04-13,Sports,HOME_GAME,BASEBALL,NEBRASKA,,Sunday,2713,True,Normal
+2025-04-16,Sports,HOME_GAME,BASEBALL,BRADLEY,,Wednesday,5004,False,High
+2025-04-22,Sports,HOME_GAME,BASEBALL,WESTERN ILLINOIS,,Tuesday,4939,False,High
+2025-04-23,Sports,HOME_GAME,BASEBALL,ST. THOMAS,,Wednesday,4940,False,High
+2025-04-25,Sports,HOME_GAME,BASEBALL,INDIANA,,Friday,4143,False,High
+2025-04-26,Sports,HOME_GAME,BASEBALL,INDIANA,,Saturday,2613,True,Normal
+2025-04-27,Sports,HOME_GAME,BASEBALL,INDIANA,,Sunday,2665,True,Normal
+2025-04-29,Sports,HOME_GAME,BASEBALL,ILLINOIS STATE,,Tuesday,4789,False,High
+2025-05-09,Academic,CLASS_END,,,Close of Classes,Friday,0,False,
+2025-05-12,Academic,FINALS_START,,,Final Examination Week Start,Monday,0,False,
+2025-05-15,Sports,HOME_GAME,BASEBALL,#5 OREGON,,Thursday,0,False,
+2025-05-15,Academic,COMMENCEMENT_START,,,Commencement ceremonies Start,Thursday,0,False,
+2025-05-16,Academic,FINALS_END,,,Final Examination Week End,Friday,0,False,
+2025-05-16,Sports,HOME_GAME,BASEBALL,#5 OREGON,,Friday,0,False,
+2025-05-17,Sports,HOME_GAME,BASEBALL,#5 OREGON,,Saturday,0,True,
+2025-05-18,Academic,COMMENCEMENT_END,,,Commencement ceremonies End,Sunday,0,True,
+2025-05-19,Academic,CLASS_START,,,Opening of Classes,Monday,0,False,
+2025-05-26,Academic,HOLIDAY,,,"Memorial Day - University Holiday--No Classes, Offices Closed",Monday,0,False,
+2025-07-04,Academic,HOLIDAY,,,Independence Day - Federal Holiday - No Classes,Friday,0,False,
+2025-08-08,Academic,CLASS_END,,,Close of Classes,Friday,0,False,
+2025-08-25,Academic,CLASS_START,,,Opening of Classes,Monday,0,False,
+2025-09-01,Academic,HOLIDAY,,,Labor Day - University Holiday--No Classes; Offices Closed,Monday,0,False,
+2025-11-23,Academic,BREAK_START,,,Fall Break Start,Sunday,0,True,
+2025-11-27,Academic,HOLIDAY,,,"University Holidays, Offices Closed",Thursday,0,False,
+2025-11-28,Academic,HOLIDAY,,,"University Holidays, Offices Closed",Friday,0,False,
+2025-11-30,Academic,BREAK_END,,,Fall Break End,Sunday,0,True,
+2025-12-01,Academic,CLASS_RESUME,,,Classes resume,Monday,0,False,
+2025-12-12,Academic,CLASS_END,,,Close of Classes,Friday,0,False,
+2025-12-15,Academic,FINALS_START,,,Final Examination Week Start,Monday,0,False,
+2025-12-18,Academic,COMMENCEMENT_START,,,Commencement ceremonies Start,Thursday,0,False,
+2025-12-19,Academic,FINALS_END,,,Final Examination Week End,Friday,0,False,
+2025-12-21,Academic,COMMENCEMENT_END,,,Commencement ceremonies End,Sunday,0,True,
+2025-12-22,Academic,CLASS_START,,,Opening of Classes,Monday,0,False,
+2025-12-25,Academic,HOLIDAY,,,"University Holiday, Offices Closed",Thursday,0,False,
+2025-12-25,Academic,HOLIDAY,,,Federal Holiday - No Classes,Thursday,0,False,
+2025-12-26,Academic,HOLIDAY,,,"University Holiday, Offices Closed",Friday,0,False,
+2026-01-01,Academic,HOLIDAY,,,Federal Holiday - No Classes,Thursday,0,False,
+2026-01-01,Academic,HOLIDAY,,,University Holiday--No Classes; Offices Closed,Thursday,0,False,
+2026-01-16,Academic,CLASS_END,,,Close of Classes,Friday,0,False,

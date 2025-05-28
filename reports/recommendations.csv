@@ -1,0 +1,6 @@
+category,priority,issue,recommendation,impact
+Peak Hour Management,HIGH,Peak usage at 7:00 is 330% above average,Implement dynamic pricing or incentives to shift usage away from 7:00,Reduce congestion and improve user experience
+Event Day Planning,HIGH,Major events increase parking demand by up to 1.9x normal levels,Develop event-specific parking management protocols and overflow strategies,Better accommodate event crowds and prevent parking shortages
+Capacity Optimization,MEDIUM,7 lots are significantly underutilized,Consider reallocating access groups or improving signage/accessibility for underused lots,Better distribute parking load and maximize facility utilization
+Weather Preparedness,MEDIUM,Bad weather changes parking demand by 9.2%,Develop weather-based parking policies and communication strategies,Better user experience during adverse weather conditions
+Weekend Optimization,LOW,1 lots have high weekend usage relative to weekdays,Consider weekend-specific access policies or maintenance scheduling,Optimize weekend operations and maintenance timing

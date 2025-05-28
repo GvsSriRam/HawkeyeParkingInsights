@@ -1,0 +1,71 @@
+
+IOWA PARKING PEAK USAGE FORECAST - EXECUTIVE REPORT
+======================================================================
+Generated: 2025-05-26 14:49:39
+Forecast Period: May 1, 2025 - December 31, 2025
+Model: Gradient Boosting (Validation R² = 0.824)
+
+FORECAST OVERVIEW
+======================================================================
+This report provides peak usage forecasts for the University of Iowa's top 10 
+busiest parking lots for the remaining months of 2025. The forecast is based on 
+1,887 historical records and incorporates academic calendar events, 
+sports schedules, and seasonal patterns.
+
+KEY FORECAST FINDINGS
+======================================================================
+📊 Peak Usage Statistics:
+   • Average daily peak across all lots: 76.4 vehicles
+   • Maximum predicted single-day peak: 113 vehicles
+   • Standard deviation: 24.0 vehicles
+
+📅 Seasonal Patterns:
+   • Busiest season: Summer (76.9 avg peak)
+   • Quietest season: Spring (73.9 avg peak)
+
+🅿️ Lot-Specific Insights:
+   • Busiest lot: Lot 70 (98.6 avg peak)
+   • Most variable usage: Lot with highest forecast standard deviation
+
+🏈 Event Impact:
+   • Event days show -2.7% higher usage than regular days
+   • 270 high-impact days identified for special planning
+
+CAPACITY PLANNING PRIORITIES
+======================================================================
+
+
+MONTHLY PEAK DEMAND FORECAST
+======================================================================
+The following months are forecasted to have the highest peak usage:
+
+1. July 2025: 78.5 average peak vehicles
+2. September 2025: 77.3 average peak vehicles
+3. December 2025: 76.6 average peak vehicles
+
+
+IMPLEMENTATION RECOMMENDATIONS
+======================================================================
+1. 🔮 Monitor forecast accuracy monthly and adjust models as needed
+2. 🏈 Prepare overflow strategies for high-impact event days
+3. 🅿️ Consider dynamic pricing during peak demand periods
+4. 📊 Implement real-time occupancy tracking for top 5 lots
+5. 🌟 Develop alternative transportation options for high-demand days
+
+FORECAST CONFIDENCE & LIMITATIONS
+======================================================================
+• Model Performance: R² = 0.824, MAE = 13.8
+• Confidence Level: High for seasonal patterns, Medium for specific events
+• Key Assumptions: Weather patterns similar to historical average
+• Update Frequency: Recommended monthly recalibration with new data
+
+DELIVERABLES SUMMARY
+======================================================================
+📁 Generated Files:
+   • daily_peak_usage_forecast_2025.csv - Daily forecasts by lot
+   • monthly_forecast_summary.csv - Monthly aggregated forecasts  
+   • capacity_planning_recommendations.csv - Action items by lot
+   • high_impact_days_2025.csv - Special planning days
+
+Report prepared by Iowa Parking Analytics Forecasting System
+For questions or model updates: Contact Parking & Transportation Dept.
