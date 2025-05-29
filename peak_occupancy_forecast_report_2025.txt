@@ -1,7 +1,7 @@
 
 UNIVERSITY OF IOWA PARKING PEAK OCCUPANCY FORECAST REPORT
 =========================================================
-Generated: 2025-05-27 23:19:41
+Generated: 2025-05-28 12:52:06
 
 EXECUTIVE SUMMARY
 -----------------
@@ -16,7 +16,7 @@ KEY FINDINGS:
 5. Finals week shows 4% higher occupancy than regular periods
 
 METHODOLOGY:
-- Model: XGBoost with R² score of 0.887
+- Model: XGBoost with R² score of 0.910
 - Features: 67 including temporal, academic, sports, and lot characteristics
 - Training data: 15,097 historical records (2021-2025)
 - Validation: Cross-validated with time series split
